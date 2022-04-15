@@ -474,6 +474,36 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
+  [ "돼지드루치기-얼음피" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 20:38:27",
+    last_update_int = 1650047907,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 70.612253715866,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "또왔어요-얼음피" ] = {
     level = "0",
     faction = "Alliance",
@@ -778,41 +808,6 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "앗케이-얼음피" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 14:07:12",
-    last_update_int = 1650024432,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 85.448569887768,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 86.49349539049,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
   [ "Tuso-얼음피" ] = {
     level = "0",
     faction = "Horde",
@@ -1098,6 +1093,41 @@ LogTracker_CharacterData_KR = {
           {
             spec = "Destruction",
             percentRank = 12.735337853164,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "앗케이-얼음피" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 14:07:12",
+    last_update_int = 1650024432,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 85.448569887768,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 86.49349539049,
           },
         },
         encountersKilled = 6,
@@ -1542,6 +1572,41 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
+  [ "화염의술사-얼음피" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 20:38:29",
+    last_update_int = 1650047909,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 95.045630839917,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 83.989947343226,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "화이트꼬마-얼음피" ] = {
     level = "0",
     faction = "Alliance",
@@ -1587,6 +1652,49 @@ LogTracker_CharacterData_KR = {
           {
             spec = "Protection",
             percentRank = 93.234790726622,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "힐만땅-얼음피" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 20:38:22",
+    last_update_int = 1650047902,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Justicar",
+            percentRank = 94.515234469045,
+          },
+          {
+            spec = "Protection",
+            percentRank = 80.883524770179,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Justicar",
+            percentRank = 96.712310752388,
+          },
+          {
+            spec = "Protection",
+            percentRank = 55.218400360248,
           },
         },
         encountersKilled = 6,
@@ -1743,88 +1851,6 @@ LogTracker_CharacterData_KR = {
           {
             spec = "BeastMastery",
             percentRank = 86.231669497733,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Ather-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 06:14:08",
-    last_update_int = 1649996048,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arms",
-            percentRank = 87.84284865125,
-          },
-          {
-            spec = "Fury",
-            percentRank = 85.141472565265,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Gladiator",
-            percentRank = 84.078139856513,
-          },
-          {
-            spec = "Fury",
-            percentRank = 77.278498481921,
-          },
-          {
-            spec = "Protection",
-            percentRank = 37.896699962069,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Backtoblack-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 17:10:22",
-    last_update_int = 1650035422,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Survival",
-            percentRank = 98.604434467716,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Survival",
-            percentRank = 73.973436074217,
           },
         },
         encountersKilled = 6,
@@ -2213,12 +2239,12 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "Ayron-로크홀라" ] = {
+  [ "Ather-로크홀라" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 09:29:11",
-    last_update_int = 1650007751,
+    last_update = "2022-04-15 06:14:08",
+    last_update_int = 1649996048,
     performance = {
       {
         zoneId = 1011,
@@ -2227,8 +2253,12 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Holy",
-            percentRank = 84.204103582361,
+            spec = "Arms",
+            percentRank = 87.84284865125,
+          },
+          {
+            spec = "Fury",
+            percentRank = 85.141472565265,
           },
         },
         encountersKilled = 14,
@@ -2238,7 +2268,55 @@ LogTracker_CharacterData_KR = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        allstars = {},
+        allstars = {
+          {
+            spec = "Gladiator",
+            percentRank = 84.078139856513,
+          },
+          {
+            spec = "Fury",
+            percentRank = 77.278498481921,
+          },
+          {
+            spec = "Protection",
+            percentRank = 37.896699962069,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Backtoblack-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 17:10:22",
+    last_update_int = 1650035422,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Survival",
+            percentRank = 98.604434467716,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Survival",
+            percentRank = 73.973436074217,
+          },
+        },
         encountersKilled = 6,
       },
     },
@@ -2329,6 +2407,49 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
+  [ "Caballero-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:20:44",
+    last_update_int = 1650043244,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Justicar",
+            percentRank = 33.794929868833,
+          },
+          {
+            spec = "Protection",
+            percentRank = 9.9100149651138,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 71.088364681839,
+          },
+          {
+            spec = "Justicar",
+            percentRank = 48.429306461953,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Cleme-로크홀라" ] = {
     level = "0",
     faction = "Alliance",
@@ -2358,6 +2479,41 @@ LogTracker_CharacterData_KR = {
           {
             spec = "Enhancement",
             percentRank = 91.643130609427,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Cvsix-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:09:18",
+    last_update_int = 1650042558,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 28.960747803023,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 39.445148971944,
           },
         },
         encountersKilled = 6,
@@ -2538,6 +2694,45 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
+  [ "Hosanna-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 20:30:43",
+    last_update_int = 1650047443,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Fury",
+            percentRank = 95.750671737246,
+          },
+          {
+            spec = "Arms",
+            percentRank = 83.933609958506,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Fury",
+            percentRank = 95.114739868714,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Hyunsu-로크홀라" ] = {
     level = "0",
     faction = "Alliance",
@@ -2643,12 +2838,12 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "Izumi-로크홀라" ] = {
+  [ "Ayron-로크홀라" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 17:17:27",
-    last_update_int = 1650035847,
+    last_update = "2022-04-15 09:29:11",
+    last_update_int = 1650007751,
     performance = {
       {
         zoneId = 1011,
@@ -2657,8 +2852,8 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Combat",
-            percentRank = 97.602527739539,
+            spec = "Holy",
+            percentRank = 84.204103582361,
           },
         },
         encountersKilled = 14,
@@ -2668,133 +2863,7 @@ LogTracker_CharacterData_KR = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        allstars = {
-          {
-            spec = "Combat",
-            percentRank = 80.27075243992,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Lastbullet-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:53:32",
-    last_update_int = 1649994812,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "BeastMastery",
-            percentRank = 99.078055939521,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "BeastMastery",
-            percentRank = 94.156056662875,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Leopardcat-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 06:20:19",
-    last_update_int = 1649996419,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Feral",
-            percentRank = 92.641706801491,
-          },
-          {
-            spec = "Warden",
-            percentRank = 90.724587239782,
-          },
-          {
-            spec = "Guardian",
-            percentRank = 71.395657564155,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Warden",
-            percentRank = 96.454829287944,
-          },
-          {
-            spec = "Guardian",
-            percentRank = 92.340774623378,
-          },
-          {
-            spec = "Feral",
-            percentRank = 86.926162102894,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "Magict-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:03:07",
-    last_update_int = 1649991787,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 98.639049394542,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 96.701424472228,
-          },
-        },
+        allstars = {},
         encountersKilled = 6,
       },
     },
@@ -3106,6 +3175,83 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
+  [ "Fisher-로크홀라" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 20:33:08",
+    last_update_int = 1650047588,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 92.244762335795,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Grassbeef-로크홀라" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 20:31:03",
+    last_update_int = 1650047463,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Feral",
+            percentRank = 92.339822400704,
+          },
+          {
+            spec = "Warden",
+            percentRank = 83.054289889959,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 45.997896768178,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Guardian",
+            percentRank = 84.5013213272,
+          },
+          {
+            spec = "Feral",
+            percentRank = 41.45503096415,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Gronnstalker-로크홀라" ] = {
     level = "0",
     faction = "Horde",
@@ -3180,12 +3326,12 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "Incyber-로크홀라" ] = {
+  [ "Izumi-로크홀라" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 08:46:41",
-    last_update_int = 1650005201,
+    last_update = "2022-04-15 17:17:27",
+    last_update_int = 1650035847,
     performance = {
       {
         zoneId = 1011,
@@ -3194,8 +3340,8 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Restoration",
-            percentRank = 64.794971312859,
+            spec = "Combat",
+            percentRank = 97.602527739539,
           },
         },
         encountersKilled = 14,
@@ -3207,20 +3353,136 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Restoration",
-            percentRank = 88.03319007279,
+            spec = "Combat",
+            percentRank = 80.27075243992,
           },
         },
         encountersKilled = 6,
       },
     },
   },
-  [ "Insights-로크홀라" ] = {
+  [ "Jiwoo-로크홀라" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 15:43:43",
-    last_update_int = 1650030223,
+    last_update = "2022-04-15 19:17:17",
+    last_update_int = 1650043037,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 65.332560425435,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Lastbullet-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:53:32",
+    last_update_int = 1649994812,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 99.078055939521,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 94.156056662875,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Leopardcat-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:20:19",
+    last_update_int = 1649996419,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Feral",
+            percentRank = 92.641706801491,
+          },
+          {
+            spec = "Warden",
+            percentRank = 90.724587239782,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 71.395657564155,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Warden",
+            percentRank = 96.454829287944,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 92.340774623378,
+          },
+          {
+            spec = "Feral",
+            percentRank = 86.926162102894,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Magict-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:03:07",
+    last_update_int = 1649991787,
     performance = {
       {
         zoneId = 1011,
@@ -3230,7 +3492,7 @@ LogTracker_CharacterData_KR = {
         allstars = {
           {
             spec = "Destruction",
-            percentRank = 93.286871839349,
+            percentRank = 98.639049394542,
           },
         },
         encountersKilled = 14,
@@ -3243,7 +3505,7 @@ LogTracker_CharacterData_KR = {
         allstars = {
           {
             spec = "Destruction",
-            percentRank = 63.787584746831,
+            percentRank = 96.701424472228,
           },
         },
         encountersKilled = 6,
@@ -3712,12 +3974,12 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "Thewarriors-로크홀라" ] = {
+  [ "Incyber-로크홀라" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 05:37:09",
-    last_update_int = 1649993829,
+    last_update = "2022-04-15 08:46:41",
+    last_update_int = 1650005201,
     performance = {
       {
         zoneId = 1011,
@@ -3726,12 +3988,8 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Arms",
-            percentRank = 92.615132044496,
-          },
-          {
-            spec = "Champion",
-            percentRank = 10.875599293465,
+            spec = "Restoration",
+            percentRank = 64.794971312859,
           },
         },
         encountersKilled = 14,
@@ -3743,24 +4001,20 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Arms",
-            percentRank = 75.719362604609,
-          },
-          {
-            spec = "Gladiator",
-            percentRank = 14.806811306077,
+            spec = "Restoration",
+            percentRank = 88.03319007279,
           },
         },
         encountersKilled = 6,
       },
     },
   },
-  [ "Thewish-로크홀라" ] = {
+  [ "Insights-로크홀라" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 17:49:33",
-    last_update_int = 1650037773,
+    last_update = "2022-04-15 15:43:43",
+    last_update_int = 1650030223,
     performance = {
       {
         zoneId = 1011,
@@ -3769,8 +4023,8 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Survival",
-            percentRank = 94.307617373626,
+            spec = "Destruction",
+            percentRank = 93.286871839349,
           },
         },
         encountersKilled = 14,
@@ -3782,20 +4036,20 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Survival",
-            percentRank = 49.153401601947,
+            spec = "Destruction",
+            percentRank = 63.787584746831,
           },
         },
         encountersKilled = 6,
       },
     },
   },
-  [ "Xeraphim-로크홀라" ] = {
+  [ "Lapin-로크홀라" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 05:49:26",
-    last_update_int = 1649994566,
+    last_update = "2022-04-15 19:39:21",
+    last_update_int = 1650044361,
     performance = {
       {
         zoneId = 1011,
@@ -3804,8 +4058,8 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Balance",
-            percentRank = 90.833844267321,
+            spec = "Shadow",
+            percentRank = 51.727879882013,
           },
         },
         encountersKilled = 14,
@@ -3817,8 +4071,8 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Balance",
-            percentRank = 86.347935311666,
+            spec = "Shadow",
+            percentRank = 74.879820725052,
           },
         },
         encountersKilled = 6,
@@ -4128,6 +4382,427 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
+  [ "Thewarriors-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:37:09",
+    last_update_int = 1649993829,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arms",
+            percentRank = 92.615132044496,
+          },
+          {
+            spec = "Champion",
+            percentRank = 10.875599293465,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arms",
+            percentRank = 75.719362604609,
+          },
+          {
+            spec = "Gladiator",
+            percentRank = 14.806811306077,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Thewish-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 17:49:33",
+    last_update_int = 1650037773,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Survival",
+            percentRank = 94.307617373626,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Survival",
+            percentRank = 49.153401601947,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "When-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:20:20",
+    last_update_int = 1650043220,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 27.25721423581,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 30.008112782991,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "Xeraphim-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:49:26",
+    last_update_int = 1649994566,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 90.833844267321,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 86.347935311666,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "감자뽀끔-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:41:18",
+    last_update_int = 1649997678,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Shadow",
+            percentRank = 36.732702837232,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 67.656654736717,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "강철매의상-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:37:05",
+    last_update_int = 1649993825,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 97.630079011587,
+          },
+          {
+            spec = "Survival",
+            percentRank = 81.410673256167,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 41.17876233072,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "검빛님-로크홀라" ] = {
+    level = "60",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:03:09",
+    last_update_int = 1649991789,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 99.974383321151,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 97.950480831992,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "고급인력-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:18:14",
+    last_update_int = 1650043094,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 96.729405288675,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 91.819865603331,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "고무망치-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:15:06",
+    last_update_int = 1649996106,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 99.350412881509,
+          },
+          {
+            spec = "Justicar",
+            percentRank = 84.242363961879,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 95.903342844059,
+          },
+          {
+            spec = "Justicar",
+            percentRank = 49.209265042334,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "고수리마수리-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:00:10",
+    last_update_int = 1649995210,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Enhancement",
+            percentRank = 87.176885098231,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Enhancement",
+            percentRank = 56.881943136886,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "곰근본-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:21:24",
+    last_update_int = 1649996484,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Feral",
+            percentRank = 95.388672172947,
+          },
+          {
+            spec = "Warden",
+            percentRank = 89.869700463336,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 31.325221894303,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Warden",
+            percentRank = 98.939134521771,
+          },
+          {
+            spec = "Feral",
+            percentRank = 90.07126987333,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 39.832446676279,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "Unded-로크홀라" ] = {
     level = "0",
     faction = "Horde",
@@ -4344,467 +5019,6 @@ LogTracker_CharacterData_KR = {
           {
             spec = "Arcane",
             percentRank = 88.957125147832,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "감자뽀끔-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 06:41:18",
-    last_update_int = 1649997678,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Shadow",
-            percentRank = 36.732702837232,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 67.656654736717,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "강철매의상-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:37:05",
-    last_update_int = 1649993825,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "BeastMastery",
-            percentRank = 97.630079011587,
-          },
-          {
-            spec = "Survival",
-            percentRank = 81.410673256167,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "BeastMastery",
-            percentRank = 41.17876233072,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "검빛님-로크홀라" ] = {
-    level = "60",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:03:09",
-    last_update_int = 1649991789,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 99.974383321151,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 97.950480831992,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "고무망치-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 06:15:06",
-    last_update_int = 1649996106,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Protection",
-            percentRank = 99.350412881509,
-          },
-          {
-            spec = "Justicar",
-            percentRank = 84.242363961879,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Protection",
-            percentRank = 95.903342844059,
-          },
-          {
-            spec = "Justicar",
-            percentRank = 49.209265042334,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "고수리마수리-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 06:00:10",
-    last_update_int = 1649995210,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Enhancement",
-            percentRank = 87.176885098231,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Enhancement",
-            percentRank = 56.881943136886,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "곰근본-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 06:21:24",
-    last_update_int = 1649996484,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Feral",
-            percentRank = 95.388672172947,
-          },
-          {
-            spec = "Warden",
-            percentRank = 89.869700463336,
-          },
-          {
-            spec = "Guardian",
-            percentRank = 31.325221894303,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Warden",
-            percentRank = 98.939134521771,
-          },
-          {
-            spec = "Feral",
-            percentRank = 90.07126987333,
-          },
-          {
-            spec = "Guardian",
-            percentRank = 39.832446676279,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "광산댁물곰-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 06:22:07",
-    last_update_int = 1649996527,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Feral",
-            percentRank = 99.893215943513,
-          },
-          {
-            spec = "Warden",
-            percentRank = 96.721846381414,
-          },
-          {
-            spec = "Guardian",
-            percentRank = 45.373956356216,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Warden",
-            percentRank = 98.99284922953,
-          },
-          {
-            spec = "Feral",
-            percentRank = 92.220907753123,
-          },
-          {
-            spec = "Guardian",
-            percentRank = 88.659076219361,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "굿데이-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:03:16",
-    last_update_int = 1649991796,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Warden",
-            percentRank = 95.423201583607,
-          },
-          {
-            spec = "Feral",
-            percentRank = 95.078126702552,
-          },
-          {
-            spec = "Guardian",
-            percentRank = 36.216222146642,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Warden",
-            percentRank = 89.102628663511,
-          },
-          {
-            spec = "Feral",
-            percentRank = 81.028363678333,
-          },
-          {
-            spec = "Guardian",
-            percentRank = 12.133943220802,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "귀염둥이무케-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 06:15:22",
-    last_update_int = 1649996122,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 82.352274717012,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 64.062820250051,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "규민-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:45:23",
-    last_update_int = 1649994323,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Feral",
-            percentRank = 94.32192124131,
-          },
-          {
-            spec = "Warden",
-            percentRank = 75.194144134346,
-          },
-          {
-            spec = "Guardian",
-            percentRank = 54.001777348679,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Feral",
-            percentRank = 99.572957844014,
-          },
-          {
-            spec = "Guardian",
-            percentRank = 98.433848754537,
-          },
-          {
-            spec = "Warden",
-            percentRank = 88.008191492933,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "그녀의쾌감-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 11:39:16",
-    last_update_int = 1650015556,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 98.725666617724,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 75.221160874058,
           },
         },
         encountersKilled = 6,
@@ -5224,12 +5438,12 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "구멍사제-로크홀라" ] = {
+  [ "광산댁물곰-로크홀라" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 10:09:38",
-    last_update_int = 1650010178,
+    last_update = "2022-04-15 06:22:07",
+    last_update_int = 1649996527,
     performance = {
       {
         zoneId = 1011,
@@ -5238,50 +5452,16 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Discipline",
-            percentRank = 81.930005307358,
+            spec = "Feral",
+            percentRank = 99.893215943513,
           },
           {
-            spec = "Shadow",
-            percentRank = 62.054712085787,
+            spec = "Warden",
+            percentRank = 96.721846381414,
           },
           {
-            spec = "Holy",
-            percentRank = 58.852505326098,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "궁떠-로크홀라" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 15:21:33",
-    last_update_int = 1650028893,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Protection",
-            percentRank = 91.427127669912,
-          },
-          {
-            spec = "Justicar",
-            percentRank = 87.262254005903,
+            spec = "Guardian",
+            percentRank = 45.373956356216,
           },
         },
         encountersKilled = 14,
@@ -5293,20 +5473,28 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Justicar",
-            percentRank = 93.771472720398,
+            spec = "Warden",
+            percentRank = 98.99284922953,
+          },
+          {
+            spec = "Feral",
+            percentRank = 92.220907753123,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 88.659076219361,
           },
         },
         encountersKilled = 6,
       },
     },
   },
-  [ "그래안그래-로크홀라" ] = {
+  [ "굿데이-로크홀라" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 05:59:15",
-    last_update_int = 1649995155,
+    last_update = "2022-04-15 05:03:16",
+    last_update_int = 1649991796,
     performance = {
       {
         zoneId = 1011,
@@ -5316,15 +5504,15 @@ LogTracker_CharacterData_KR = {
         allstars = {
           {
             spec = "Warden",
-            percentRank = 98.340257988732,
+            percentRank = 95.423201583607,
           },
           {
             spec = "Feral",
-            percentRank = 79.896266916556,
+            percentRank = 95.078126702552,
           },
           {
             spec = "Guardian",
-            percentRank = 47.427781495825,
+            percentRank = 36.216222146642,
           },
         },
         encountersKilled = 14,
@@ -5336,20 +5524,28 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
+            spec = "Warden",
+            percentRank = 89.102628663511,
+          },
+          {
+            spec = "Feral",
+            percentRank = 81.028363678333,
+          },
+          {
             spec = "Guardian",
-            percentRank = 67.374335007209,
+            percentRank = 12.133943220802,
           },
         },
         encountersKilled = 6,
       },
     },
   },
-  [ "그랜드냥꾼-로크홀라" ] = {
+  [ "귀염둥이무케-로크홀라" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 11:49:14",
-    last_update_int = 1650016154,
+    last_update = "2022-04-15 06:15:22",
+    last_update_int = 1649996122,
     performance = {
       {
         zoneId = 1011,
@@ -5358,12 +5554,8 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "BeastMastery",
-            percentRank = 93.891558867741,
-          },
-          {
-            spec = "Survival",
-            percentRank = 82.194362677622,
+            spec = "Destruction",
+            percentRank = 82.352274717012,
           },
         },
         encountersKilled = 14,
@@ -5375,20 +5567,20 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "BeastMastery",
-            percentRank = 44.494787919607,
+            spec = "Destruction",
+            percentRank = 64.062820250051,
           },
         },
         encountersKilled = 6,
       },
     },
   },
-  [ "그렇고그런술사-로크홀라" ] = {
+  [ "귀황옥-로크홀라" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 07:55:18",
-    last_update_int = 1650002118,
+    last_update = "2022-04-15 19:20:24",
+    last_update_int = 1650043224,
     performance = {
       {
         zoneId = 1011,
@@ -5397,8 +5589,8 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Elemental",
-            percentRank = 92.593789866827,
+            spec = "Restoration",
+            percentRank = 68.467989534925,
           },
         },
         encountersKilled = 14,
@@ -5408,7 +5600,98 @@ LogTracker_CharacterData_KR = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        allstars = {},
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 50.84948493873,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "규민-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:45:23",
+    last_update_int = 1649994323,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Feral",
+            percentRank = 94.32192124131,
+          },
+          {
+            spec = "Warden",
+            percentRank = 75.194144134346,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 54.001777348679,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Feral",
+            percentRank = 99.572957844014,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 98.433848754537,
+          },
+          {
+            spec = "Warden",
+            percentRank = 88.008191492933,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "그녀의쾌감-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 11:39:16",
+    last_update_int = 1650015556,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 98.725666617724,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 75.221160874058,
+          },
+        },
         encountersKilled = 6,
       },
     },
@@ -5911,12 +6194,12 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "꾸엠-로크홀라" ] = {
+  [ "구멍사제-로크홀라" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 06:14:04",
-    last_update_int = 1649996044,
+    last_update = "2022-04-15 10:09:38",
+    last_update_int = 1650010178,
     performance = {
       {
         zoneId = 1011,
@@ -5925,8 +6208,16 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Restoration",
-            percentRank = 86.748746793186,
+            spec = "Discipline",
+            percentRank = 81.930005307358,
+          },
+          {
+            spec = "Shadow",
+            percentRank = 62.054712085787,
+          },
+          {
+            spec = "Holy",
+            percentRank = 58.852505326098,
           },
         },
         encountersKilled = 14,
@@ -5941,12 +6232,12 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "꿀곰주-로크홀라" ] = {
+  [ "궁떠-로크홀라" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 05:40:04",
-    last_update_int = 1649994004,
+    last_update = "2022-04-15 15:21:33",
+    last_update_int = 1650028893,
     performance = {
       {
         zoneId = 1011,
@@ -5955,8 +6246,12 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Destruction",
-            percentRank = 99.993476775605,
+            spec = "Protection",
+            percentRank = 91.427127669912,
+          },
+          {
+            spec = "Justicar",
+            percentRank = 87.262254005903,
           },
         },
         encountersKilled = 14,
@@ -5968,20 +6263,20 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Destruction",
-            percentRank = 87.114418938307,
+            spec = "Justicar",
+            percentRank = 93.771472720398,
           },
         },
         encountersKilled = 6,
       },
     },
   },
-  [ "끔있는법사-로크홀라" ] = {
-    level = "60",
-    faction = "Alliance",
+  [ "그래안그래-로크홀라" ] = {
+    level = "0",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 05:03:13",
-    last_update_int = 1649991793,
+    last_update = "2022-04-15 05:59:15",
+    last_update_int = 1649995155,
     performance = {
       {
         zoneId = 1011,
@@ -5990,8 +6285,90 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Arcane",
-            percentRank = 99.940227749353,
+            spec = "Warden",
+            percentRank = 98.340257988732,
+          },
+          {
+            spec = "Feral",
+            percentRank = 79.896266916556,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 47.427781495825,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Guardian",
+            percentRank = 67.374335007209,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "그랜드냥꾼-로크홀라" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 11:49:14",
+    last_update_int = 1650016154,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 93.891558867741,
+          },
+          {
+            spec = "Survival",
+            percentRank = 82.194362677622,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 44.494787919607,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "그렇고그런술사-로크홀라" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 07:55:18",
+    last_update_int = 1650002118,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 92.593789866827,
           },
         },
         encountersKilled = 14,
@@ -6002,57 +6379,6 @@ LogTracker_CharacterData_KR = {
         zoneEncounters = "6",
         partition = 5,
         allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "난다우-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:40:26",
-    last_update_int = 1649994026,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Feral",
-            percentRank = 99.982565868329,
-          },
-          {
-            spec = "Warden",
-            percentRank = 17.828631093515,
-          },
-          {
-            spec = "Guardian",
-            percentRank = 1.1859962478195,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Warden",
-            percentRank = 99.563567999463,
-          },
-          {
-            spec = "Feral",
-            percentRank = 97.235767665984,
-          },
-          {
-            spec = "Guardian",
-            percentRank = 89.28056480883,
-          },
-        },
         encountersKilled = 6,
       },
     },
@@ -6213,12 +6539,12 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "꿈꾸는새벽별-로크홀라" ] = {
+  [ "꾸엠-로크홀라" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 18:04:44",
-    last_update_int = 1650038684,
+    last_update = "2022-04-15 06:14:04",
+    last_update_int = 1649996044,
     performance = {
       {
         zoneId = 1011,
@@ -6228,7 +6554,7 @@ LogTracker_CharacterData_KR = {
         allstars = {
           {
             spec = "Restoration",
-            percentRank = 74.266190402236,
+            percentRank = 86.748746793186,
           },
         },
         encountersKilled = 14,
@@ -6243,12 +6569,12 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "꿍꽝꽹-로크홀라" ] = {
+  [ "꿀곰주-로크홀라" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 07:18:25",
-    last_update_int = 1649999905,
+    last_update = "2022-04-15 05:40:04",
+    last_update_int = 1649994004,
     performance = {
       {
         zoneId = 1011,
@@ -6257,8 +6583,8 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Elemental",
-            percentRank = 98.05983848343,
+            spec = "Destruction",
+            percentRank = 99.993476775605,
           },
         },
         encountersKilled = 14,
@@ -6270,208 +6596,20 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Elemental",
-            percentRank = 89.065161321719,
+            spec = "Destruction",
+            percentRank = 87.114418938307,
           },
         },
         encountersKilled = 6,
       },
     },
   },
-  [ "나드레세-로크홀라" ] = {
-    level = "0",
-    faction = "Horde",
+  [ "끔있는법사-로크홀라" ] = {
+    level = "60",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 09:48:05",
-    last_update_int = 1650008885,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Protection",
-            percentRank = 99.448039958797,
-          },
-          {
-            spec = "Justicar",
-            percentRank = 87.20251099004,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Protection",
-            percentRank = 95.376730423756,
-          },
-          {
-            spec = "Justicar",
-            percentRank = 91.348445744908,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "나모쏠-로크홀라" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 18:53:40",
-    last_update_int = 1650041620,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Shadow",
-            percentRank = 26.633914390285,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Shadow",
-            percentRank = 91.408537246539,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "난꾸르미-로크홀라" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 08:37:08",
-    last_update_int = 1650004628,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "난뭐임-로크홀라" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 16:26:38",
-    last_update_int = 1650032798,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Justicar",
-            percentRank = 94.769365208164,
-          },
-          {
-            spec = "Protection",
-            percentRank = 87.624628301557,
-          },
-          {
-            spec = "Holy",
-            percentRank = 75.93768977258,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Justicar",
-            percentRank = 98.211497049299,
-          },
-          {
-            spec = "Protection",
-            percentRank = 83.946447746718,
-          },
-          {
-            spec = "Holy",
-            percentRank = 80.303278018475,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "낭만가득-로크홀라" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 17:37:43",
-    last_update_int = 1650037063,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Enhancement",
-            percentRank = 59.127015424831,
-          },
-          {
-            spec = "Elemental",
-            percentRank = 10.113833620734,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "내맘에너있다-로크홀라" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 18:53:14",
-    last_update_int = 1650041594,
+    last_update = "2022-04-15 05:03:13",
+    last_update_int = 1649991793,
     performance = {
       {
         zoneId = 1011,
@@ -6481,7 +6619,45 @@ LogTracker_CharacterData_KR = {
         allstars = {
           {
             spec = "Arcane",
-            percentRank = 94.461685609337,
+            percentRank = 99.940227749353,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "난다우-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:40:26",
+    last_update_int = 1649994026,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Feral",
+            percentRank = 99.982565868329,
+          },
+          {
+            spec = "Warden",
+            percentRank = 17.828631093515,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 1.1859962478195,
           },
         },
         encountersKilled = 14,
@@ -6493,8 +6669,16 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Arcane",
-            percentRank = 73.73078183554,
+            spec = "Warden",
+            percentRank = 99.563567999463,
+          },
+          {
+            spec = "Feral",
+            percentRank = 97.235767665984,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 89.28056480883,
           },
         },
         encountersKilled = 6,
@@ -6897,12 +7081,12 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "다크술쏴-로크홀라" ] = {
+  [ "꿈꾸는새벽별-로크홀라" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 07:54:21",
-    last_update_int = 1650002061,
+    last_update = "2022-04-15 18:04:44",
+    last_update_int = 1650038684,
     performance = {
       {
         zoneId = 1011,
@@ -6911,8 +7095,38 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Enhancement",
-            percentRank = 70.715271205573,
+            spec = "Restoration",
+            percentRank = 74.266190402236,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "꿍꽝꽹-로크홀라" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 07:18:25",
+    last_update_int = 1649999905,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 98.05983848343,
           },
         },
         encountersKilled = 14,
@@ -6924,20 +7138,63 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Enhancement",
-            percentRank = 54.707211447938,
+            spec = "Elemental",
+            percentRank = 89.065161321719,
           },
         },
         encountersKilled = 6,
       },
     },
   },
-  [ "단쭈-로크홀라" ] = {
+  [ "나드레세-로크홀라" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 05:59:24",
-    last_update_int = 1649995164,
+    last_update = "2022-04-15 09:48:05",
+    last_update_int = 1650008885,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 99.448039958797,
+          },
+          {
+            spec = "Justicar",
+            percentRank = 87.20251099004,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 95.376730423756,
+          },
+          {
+            spec = "Justicar",
+            percentRank = 91.348445744908,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "나모쏠-로크홀라" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 18:53:40",
+    last_update_int = 1650041620,
     performance = {
       {
         zoneId = 1011,
@@ -6947,7 +7204,7 @@ LogTracker_CharacterData_KR = {
         allstars = {
           {
             spec = "Shadow",
-            percentRank = 12.044798407168,
+            percentRank = 26.633914390285,
           },
         },
         encountersKilled = 14,
@@ -6960,19 +7217,44 @@ LogTracker_CharacterData_KR = {
         allstars = {
           {
             spec = "Shadow",
-            percentRank = 38.802619958787,
+            percentRank = 91.408537246539,
           },
         },
         encountersKilled = 6,
       },
     },
   },
-  [ "달봉군-로크홀라" ] = {
+  [ "난꾸르미-로크홀라" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 05:59:21",
-    last_update_int = 1649995161,
+    last_update = "2022-04-15 08:37:08",
+    last_update_int = 1650004628,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "난뭐임-로크홀라" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 16:26:38",
+    last_update_int = 1650032798,
     performance = {
       {
         zoneId = 1011,
@@ -6981,12 +7263,16 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "BeastMastery",
-            percentRank = 96.440638918753,
+            spec = "Justicar",
+            percentRank = 94.769365208164,
           },
           {
-            spec = "Survival",
-            percentRank = 90.798543373651,
+            spec = "Protection",
+            percentRank = 87.624628301557,
+          },
+          {
+            spec = "Holy",
+            percentRank = 75.93768977258,
           },
         },
         encountersKilled = 14,
@@ -6998,12 +7284,85 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "BeastMastery",
-            percentRank = 79.384126291511,
+            spec = "Justicar",
+            percentRank = 98.211497049299,
           },
           {
-            spec = "Survival",
-            percentRank = 63.883434948848,
+            spec = "Protection",
+            percentRank = 83.946447746718,
+          },
+          {
+            spec = "Holy",
+            percentRank = 80.303278018475,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "낭만가득-로크홀라" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 17:37:43",
+    last_update_int = 1650037063,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Enhancement",
+            percentRank = 59.127015424831,
+          },
+          {
+            spec = "Elemental",
+            percentRank = 10.113833620734,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "내맘에너있다-로크홀라" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 18:53:14",
+    last_update_int = 1650041594,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 94.461685609337,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 73.73078183554,
           },
         },
         encountersKilled = 6,
@@ -7284,6 +7643,283 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
+  [ "다크술쏴-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 07:54:21",
+    last_update_int = 1650002061,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Enhancement",
+            percentRank = 70.715271205573,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Enhancement",
+            percentRank = 54.707211447938,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "단쭈-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:59:24",
+    last_update_int = 1649995164,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Shadow",
+            percentRank = 12.044798407168,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Shadow",
+            percentRank = 38.802619958787,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "달봉군-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:59:21",
+    last_update_int = 1649995161,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 96.440638918753,
+          },
+          {
+            spec = "Survival",
+            percentRank = 90.798543373651,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 79.384126291511,
+          },
+          {
+            spec = "Survival",
+            percentRank = 63.883434948848,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "덕산이-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:41:13",
+    last_update_int = 1649994073,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Affliction",
+            percentRank = 99.971937701698,
+          },
+          {
+            spec = "Destruction",
+            percentRank = 99.886701892078,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 86.042221766755,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "도도단-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 17:23:14",
+    last_update_int = 1650036194,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Combat",
+            percentRank = 22.77460065226,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Combat",
+            percentRank = 36.075838667926,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "돌고도는세상-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:13:24",
+    last_update_int = 1650042804,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 70.807274574979,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "두통치통보막통-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:49:09",
+    last_update_int = 1649994549,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Discipline",
+            percentRank = 80.00686834629,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "둘리님-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 11:35:37",
+    last_update_int = 1650015337,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 49.855448170404,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "닥돌탱탱-로크홀라" ] = {
     level = "0",
     faction = "Horde",
@@ -7510,265 +8146,6 @@ LogTracker_CharacterData_KR = {
           {
             spec = "Protection",
             percentRank = 32.159063355156,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "덕산이-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:41:13",
-    last_update_int = 1649994073,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Affliction",
-            percentRank = 99.971937701698,
-          },
-          {
-            spec = "Destruction",
-            percentRank = 99.886701892078,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 86.042221766755,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "도도단-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 17:23:14",
-    last_update_int = 1650036194,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Combat",
-            percentRank = 22.77460065226,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Combat",
-            percentRank = 36.075838667926,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "두통치통보막통-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:49:09",
-    last_update_int = 1649994549,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Discipline",
-            percentRank = 80.00686834629,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "둘리님-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 11:35:37",
-    last_update_int = 1650015337,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 49.855448170404,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "드루놈-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 06:20:29",
-    last_update_int = 1649996429,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Balance",
-            percentRank = 83.353770692826,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Balance",
-            percentRank = 76.817396765583,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "드루베이베-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:47:14",
-    last_update_int = 1649994434,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 56.76516997456,
-          },
-          {
-            spec = "Balance",
-            percentRank = 14.007620215468,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 16.374924549452,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "드루진야-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 06:31:27",
-    last_update_int = 1649997087,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Warden",
-            percentRank = 94.905483892019,
-          },
-          {
-            spec = "Feral",
-            percentRank = 86.30548957221,
-          },
-          {
-            spec = "Guardian",
-            percentRank = 21.324892755658,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Warden",
-            percentRank = 84.845738073656,
-          },
-          {
-            spec = "Feral",
-            percentRank = 72.011426263093,
-          },
-          {
-            spec = "Guardian",
-            percentRank = 65.353254114254,
           },
         },
         encountersKilled = 6,
@@ -8339,6 +8716,336 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
+  [ "드루놈-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:20:29",
+    last_update_int = 1649996429,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 83.353770692826,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 76.817396765583,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "드루베이베-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:47:14",
+    last_update_int = 1649994434,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 56.76516997456,
+          },
+          {
+            spec = "Balance",
+            percentRank = 14.007620215468,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 16.374924549452,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "드루진야-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:31:27",
+    last_update_int = 1649997087,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Warden",
+            percentRank = 94.905483892019,
+          },
+          {
+            spec = "Feral",
+            percentRank = 86.30548957221,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 21.324892755658,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Warden",
+            percentRank = 84.845738073656,
+          },
+          {
+            spec = "Feral",
+            percentRank = 72.011426263093,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 65.353254114254,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "드워프미인-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:29:29",
+    last_update_int = 1649993369,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Shadow",
+            percentRank = 99.5281234445,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Shadow",
+            percentRank = 92.427141595525,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "떠리님-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:36:32",
+    last_update_int = 1649993792,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 92.874660593851,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 79.188255613126,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "똥게-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 12:05:17",
+    last_update_int = 1650017117,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Enhancement",
+            percentRank = 95.266638874179,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Enhancement",
+            percentRank = 58.583081010937,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "뚱숙냥-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:58:34",
+    last_update_int = 1649995114,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 82.134507414802,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "라니쨩-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:30:10",
+    last_update_int = 1649997010,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 99.621556264473,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 82.466675369508,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "라마튜엘-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 09:36:41",
+    last_update_int = 1650008201,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 97.970955135753,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 42.12626034378,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "드랍더마이크-로크홀라" ] = {
     level = "0",
     faction = "Horde",
@@ -8686,349 +9393,6 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "드워프미인-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:29:29",
-    last_update_int = 1649993369,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Shadow",
-            percentRank = 99.5281234445,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Shadow",
-            percentRank = 92.427141595525,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "떠리님-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:36:32",
-    last_update_int = 1649993792,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Balance",
-            percentRank = 92.874660593851,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Balance",
-            percentRank = 79.188255613126,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "똥게-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 12:05:17",
-    last_update_int = 1650017117,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Enhancement",
-            percentRank = 95.266638874179,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Enhancement",
-            percentRank = 58.583081010937,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "뚱숙냥-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:58:34",
-    last_update_int = 1649995114,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "BeastMastery",
-            percentRank = 82.134507414802,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "라니쨩-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 06:30:10",
-    last_update_int = 1649997010,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 99.621556264473,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 82.466675369508,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "라마튜엘-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 09:36:41",
-    last_update_int = 1650008201,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "BeastMastery",
-            percentRank = 97.970955135753,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "BeastMastery",
-            percentRank = 42.12626034378,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "래미-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 17:35:09",
-    last_update_int = 1650036909,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Shadow",
-            percentRank = 83.965195773773,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "레전드섯다-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 06:00:27",
-    last_update_int = 1649995227,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 87.658059443741,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 95.148852223816,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "루콩콩-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:04:05",
-    last_update_int = 1649991845,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "BeastMastery",
-            percentRank = 89.8854929265,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "르로아-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 12:41:34",
-    last_update_int = 1650019294,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Fury",
-            percentRank = 94.184858656182,
-          },
-          {
-            spec = "Arms",
-            percentRank = 65.131396957123,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Fury",
-            percentRank = 84.739326208431,
-          },
-          {
-            spec = "Gladiator",
-            percentRank = 43.565168221657,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
   [ "떡장수-로크홀라" ] = {
     level = "0",
     faction = "Horde",
@@ -9310,6 +9674,296 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
+  [ "래미-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 17:35:09",
+    last_update_int = 1650036909,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Shadow",
+            percentRank = 83.965195773773,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "레전드섯다-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:00:27",
+    last_update_int = 1649995227,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 87.658059443741,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 95.148852223816,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "루콩콩-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:04:05",
+    last_update_int = 1649991845,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 89.8854929265,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "르로아-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 12:41:34",
+    last_update_int = 1650019294,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Fury",
+            percentRank = 94.184858656182,
+          },
+          {
+            spec = "Arms",
+            percentRank = 65.131396957123,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Fury",
+            percentRank = 84.739326208431,
+          },
+          {
+            spec = "Gladiator",
+            percentRank = 43.565168221657,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "마간다-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:27:31",
+    last_update_int = 1649996851,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 90.539331420688,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 84.077084043019,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "마리엑스-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 08:03:14",
+    last_update_int = 1650002594,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 35.706974241001,
+          },
+          {
+            spec = "Gladiator",
+            percentRank = 33.141471968642,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 76.558351245417,
+          },
+          {
+            spec = "Gladiator",
+            percentRank = 57.806782493445,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "마타라이슈-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:05:31",
+    last_update_int = 1649991931,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Survival",
+            percentRank = 96.033294316556,
+          },
+          {
+            spec = "BeastMastery",
+            percentRank = 3.6472465400433,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Survival",
+            percentRank = 84.995349798491,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "망렙사제-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:49:11",
+    last_update_int = 1649994551,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Shadow",
+            percentRank = 74.647088103534,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Shadow",
+            percentRank = 93.946864880777,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "레드불중독-로크홀라" ] = {
     level = "0",
     faction = "Horde",
@@ -9571,345 +10225,6 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "마간다-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 06:27:31",
-    last_update_int = 1649996851,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Elemental",
-            percentRank = 90.539331420688,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Elemental",
-            percentRank = 84.077084043019,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "마리엑스-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 08:03:14",
-    last_update_int = 1650002594,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Protection",
-            percentRank = 35.706974241001,
-          },
-          {
-            spec = "Gladiator",
-            percentRank = 33.141471968642,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Protection",
-            percentRank = 76.558351245417,
-          },
-          {
-            spec = "Gladiator",
-            percentRank = 57.806782493445,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "마타라이슈-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:05:31",
-    last_update_int = 1649991931,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Survival",
-            percentRank = 96.033294316556,
-          },
-          {
-            spec = "BeastMastery",
-            percentRank = 3.6472465400433,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Survival",
-            percentRank = 84.995349798491,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "망렙사제-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:49:11",
-    last_update_int = 1649994551,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Shadow",
-            percentRank = 74.647088103534,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Shadow",
-            percentRank = 93.946864880777,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "몽몽블랑-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 06:26:18",
-    last_update_int = 1649996778,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 48.835036883468,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 33.428564330609,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "몽몽쿠키-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 06:17:03",
-    last_update_int = 1649996223,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Affliction",
-            percentRank = 78.144146672279,
-          },
-          {
-            spec = "Destruction",
-            percentRank = 72.113559036897,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 76.725507276081,
-          },
-          {
-            spec = "Affliction",
-            percentRank = 40.597731239092,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "무빙장애-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:44:07",
-    last_update_int = 1649994247,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 99.487324867306,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 99.546001769578,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "묻어갑니다-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 17:51:11",
-    last_update_int = 1650037871,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Feral",
-            percentRank = 98.157434151894,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Warden",
-            percentRank = 86.557538058602,
-          },
-          {
-            spec = "Feral",
-            percentRank = 75.433214021931,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "미소보리간장-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 06:05:16",
-    last_update_int = 1649995516,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Combat",
-            percentRank = 86.903463385074,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Combat",
-            percentRank = 81.685581130599,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
   [ "리벌스황장군-로크홀라" ] = {
     level = "0",
     faction = "Horde",
@@ -10133,6 +10448,45 @@ LogTracker_CharacterData_KR = {
           {
             spec = "Arcane",
             percentRank = 95.08271469486,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "마앙이-로크홀라" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 20:33:09",
+    last_update_int = 1650047589,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 93.373261535415,
+          },
+          {
+            spec = "Affliction",
+            percentRank = 67.357251136938,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 45.493610908083,
           },
         },
         encountersKilled = 6,
@@ -10385,6 +10739,258 @@ LogTracker_CharacterData_KR = {
           {
             spec = "BeastMastery",
             percentRank = 78.889335845701,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "몽몽블랑-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:26:18",
+    last_update_int = 1649996778,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 48.835036883468,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 33.428564330609,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "몽몽쿠키-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:17:03",
+    last_update_int = 1649996223,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Affliction",
+            percentRank = 78.144146672279,
+          },
+          {
+            spec = "Destruction",
+            percentRank = 72.113559036897,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 76.725507276081,
+          },
+          {
+            spec = "Affliction",
+            percentRank = 40.597731239092,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "무빙장애-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:44:07",
+    last_update_int = 1649994247,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 99.487324867306,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 99.546001769578,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "묻어갑니다-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 17:51:11",
+    last_update_int = 1650037871,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Feral",
+            percentRank = 98.157434151894,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Warden",
+            percentRank = 86.557538058602,
+          },
+          {
+            spec = "Feral",
+            percentRank = 75.433214021931,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "미소보리간장-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:05:16",
+    last_update_int = 1649995516,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Combat",
+            percentRank = 86.903463385074,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Combat",
+            percentRank = 81.685581130599,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "미스틸-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 07:52:14",
+    last_update_int = 1650001934,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Retribution",
+            percentRank = 96.261158211098,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Retribution",
+            percentRank = 92.701730340929,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "박화요비-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:45:26",
+    last_update_int = 1649994326,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 77.623427028591,
           },
         },
         encountersKilled = 14,
@@ -10673,305 +11279,6 @@ LogTracker_CharacterData_KR = {
         zoneEncounters = "6",
         partition = 5,
         allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "미스틸-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 07:52:14",
-    last_update_int = 1650001934,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Retribution",
-            percentRank = 96.261158211098,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Retribution",
-            percentRank = 92.701730340929,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "박화요비-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:45:26",
-    last_update_int = 1649994326,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 77.623427028591,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "뱅커윈-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:51:03",
-    last_update_int = 1649994663,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 94.448353359884,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 75.038800168255,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "버뜩드루와-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:34:17",
-    last_update_int = 1649993657,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "버터는링-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 19:01:41",
-    last_update_int = 1650042101,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 92.292351367027,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 54.513329818612,
-          },
-          {
-            spec = "Fire",
-            percentRank = 30.181952298992,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "법사나해볼까-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:39:28",
-    last_update_int = 1649993968,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 98.359507886522,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 94.431631927824,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "법사순이-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 17:05:40",
-    last_update_int = 1650035140,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 72.854831652744,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "보라죽음-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 06:28:24",
-    last_update_int = 1649996904,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Balance",
-            percentRank = 99.135061750022,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Balance",
-            percentRank = 93.397707646412,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "보연사-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 06:20:18",
-    last_update_int = 1649996418,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 97.291804712103,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 96.006846235296,
-          },
-        },
         encountersKilled = 6,
       },
     },
@@ -11296,6 +11603,45 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
+  [ "반류빈-로크홀라" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 19:37:28",
+    last_update_int = 1650044248,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Discipline",
+            percentRank = 97.04594511255,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 97.602659822678,
+          },
+          {
+            spec = "Discipline",
+            percentRank = 84.607696151924,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "발아니르-로크홀라" ] = {
     level = "0",
     faction = "Horde",
@@ -11395,6 +11741,414 @@ LogTracker_CharacterData_KR = {
           {
             spec = "Destruction",
             percentRank = 84.845124379363,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "뱅커윈-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:51:03",
+    last_update_int = 1649994663,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 94.448353359884,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 75.038800168255,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "버뜩드루와-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:34:17",
+    last_update_int = 1649993657,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "버터는링-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:01:41",
+    last_update_int = 1650042101,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 92.292351367027,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 54.513329818612,
+          },
+          {
+            spec = "Fire",
+            percentRank = 30.181952298992,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "법사나해볼까-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:39:28",
+    last_update_int = 1649993968,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 98.359507886522,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 94.431631927824,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "법사순이-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 17:05:40",
+    last_update_int = 1650035140,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 72.854831652744,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "보라죽음-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:28:24",
+    last_update_int = 1649996904,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 99.135061750022,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 93.397707646412,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "보연사-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:20:18",
+    last_update_int = 1649996418,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 97.291804712103,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 96.006846235296,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "보이드는달콤함-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:14:20",
+    last_update_int = 1649996060,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 96.238159489403,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 97.786431645829,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "복쉴-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:41:31",
+    last_update_int = 1649994091,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 94.540301212817,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "복원복지부-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:40:15",
+    last_update_int = 1649994015,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 96.080423475897,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 95.76135091732,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "봄꽃송이-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:20:23",
+    last_update_int = 1649996423,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 98.666462293072,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 71.785209609044,
+          },
+          {
+            spec = "Dreamstate",
+            percentRank = 19.19770773639,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "봄햇살-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 14:29:26",
+    last_update_int = 1650025766,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 94.32726373898,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 67.944081505677,
           },
         },
         encountersKilled = 6,
@@ -11642,327 +12396,6 @@ LogTracker_CharacterData_KR = {
           {
             spec = "Balance",
             percentRank = 83.6503658067,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "보이드는달콤함-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 06:14:20",
-    last_update_int = 1649996060,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 96.238159489403,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 97.786431645829,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "복쉴-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:41:31",
-    last_update_int = 1649994091,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Elemental",
-            percentRank = 94.540301212817,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "복원복지부-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:40:15",
-    last_update_int = 1649994015,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Elemental",
-            percentRank = 96.080423475897,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Elemental",
-            percentRank = 95.76135091732,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "봄꽃송이-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 06:20:23",
-    last_update_int = 1649996423,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Balance",
-            percentRank = 98.666462293072,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Balance",
-            percentRank = 71.785209609044,
-          },
-          {
-            spec = "Dreamstate",
-            percentRank = 19.19770773639,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "봄햇살-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 14:29:26",
-    last_update_int = 1650025766,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 94.32726373898,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 67.944081505677,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "사랑의블랙홀-로크홀라" ] = {
-    level = "60",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:31:17",
-    last_update_int = 1649993477,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 82.403580897586,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "사자와사냥꾼-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 09:38:35",
-    last_update_int = 1650008315,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "BeastMastery",
-            percentRank = 93.991065568564,
-          },
-          {
-            spec = "Survival",
-            percentRank = 93.818428241672,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "BeastMastery",
-            percentRank = 90.811762689149,
-          },
-          {
-            spec = "Survival",
-            percentRank = 62.457373152837,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "사피렌-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:03:21",
-    last_update_int = 1649991801,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Survival",
-            percentRank = 99.86344127975,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Survival",
-            percentRank = 77.606696290173,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "상큼발랄늙은이-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 15:25:09",
-    last_update_int = 1650029109,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Balance",
-            percentRank = 85.436830279986,
-          },
-          {
-            spec = "Dreamstate",
-            percentRank = 27.03481392557,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Balance",
-            percentRank = 55.356180207932,
           },
         },
         encountersKilled = 6,
@@ -12378,6 +12811,382 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
+  [ "사랑의블랙홀-로크홀라" ] = {
+    level = "60",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:31:17",
+    last_update_int = 1649993477,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 82.403580897586,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "사자와사냥꾼-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 09:38:35",
+    last_update_int = 1650008315,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 93.991065568564,
+          },
+          {
+            spec = "Survival",
+            percentRank = 93.818428241672,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 90.811762689149,
+          },
+          {
+            spec = "Survival",
+            percentRank = 62.457373152837,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "사피렌-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:03:21",
+    last_update_int = 1649991801,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Survival",
+            percentRank = 99.86344127975,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Survival",
+            percentRank = 77.606696290173,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "상큼발랄늙은이-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 15:25:09",
+    last_update_int = 1650029109,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 85.436830279986,
+          },
+          {
+            spec = "Dreamstate",
+            percentRank = 27.03481392557,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 55.356180207932,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "상큼톡톡-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:38:10",
+    last_update_int = 1649993890,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 68.545406911006,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 94.727409136379,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "생고기-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:03:59",
+    last_update_int = 1649991839,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Warden",
+            percentRank = 96.142133083901,
+          },
+          {
+            spec = "Feral",
+            percentRank = 92.481530716761,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 52.336335809187,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Warden",
+            percentRank = 87.575116661631,
+          },
+          {
+            spec = "Feral",
+            percentRank = 69.408777447557,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 21.699895589917,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "샤슈슈-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:37:12",
+    last_update_int = 1649993832,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 93.912180914492,
+          },
+          {
+            spec = "Gladiator",
+            percentRank = 93.654133787199,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 85.070805411556,
+          },
+          {
+            spec = "Gladiator",
+            percentRank = 82.185149969747,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "서닥돌-로크홀라" ] = {
+    level = "60",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:36:13",
+    last_update_int = 1649993773,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arms",
+            percentRank = 98.4205610122,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arms",
+            percentRank = 23.718904046773,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "서요불-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:37:21",
+    last_update_int = 1649997441,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 49.309260312792,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "선울-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:25:24",
+    last_update_int = 1649996724,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 98.746565641052,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 88.30120463152,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "빨맥-로크홀라" ] = {
     level = "0",
     faction = "Horde",
@@ -12448,6 +13257,45 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
+  [ "사광흑마-로크홀라" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 20:31:21",
+    last_update_int = 1650047481,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 93.744771374621,
+          },
+          {
+            spec = "Affliction",
+            percentRank = 73.315264826129,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Affliction",
+            percentRank = 3.3404710920771,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "사무침-로크홀라" ] = {
     level = "0",
     faction = "Horde",
@@ -12478,6 +13326,41 @@ LogTracker_CharacterData_KR = {
         zoneEncounters = "6",
         partition = 5,
         allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "사신보리-로크홀라" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 20:21:13",
+    last_update_int = 1650046873,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 98.660578735398,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 76.835806606032,
+          },
+        },
         encountersKilled = 6,
       },
     },
@@ -12767,24 +13650,19 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "상큼톡톡-로크홀라" ] = {
+  [ "상큼한오크-로크홀라" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 05:38:10",
-    last_update_int = 1649993890,
+    last_update = "2022-04-15 12:07:33",
+    last_update_int = 1650017253,
     performance = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 68.545406911006,
-          },
-        },
+        allstars = {},
         encountersKilled = 14,
       },
       {
@@ -12794,40 +13672,27 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Holy",
-            percentRank = 94.727409136379,
+            spec = "Destruction",
+            percentRank = 73.183456410515,
           },
         },
         encountersKilled = 6,
       },
     },
   },
-  [ "생고기-로크홀라" ] = {
+  [ "샤냥꿀-로크홀라" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 05:03:59",
-    last_update_int = 1649991839,
+    last_update = "2022-04-15 20:37:54",
+    last_update_int = 1650047874,
     performance = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        allstars = {
-          {
-            spec = "Warden",
-            percentRank = 96.142133083901,
-          },
-          {
-            spec = "Feral",
-            percentRank = 92.481530716761,
-          },
-          {
-            spec = "Guardian",
-            percentRank = 52.336335809187,
-          },
-        },
+        allstars = {},
         encountersKilled = 14,
       },
       {
@@ -12835,30 +13700,17 @@ LogTracker_CharacterData_KR = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        allstars = {
-          {
-            spec = "Warden",
-            percentRank = 87.575116661631,
-          },
-          {
-            spec = "Feral",
-            percentRank = 69.408777447557,
-          },
-          {
-            spec = "Guardian",
-            percentRank = 21.699895589917,
-          },
-        },
+        allstars = {},
         encountersKilled = 6,
       },
     },
   },
-  [ "샤슈슈-로크홀라" ] = {
+  [ "서나미-로크홀라" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 05:37:12",
-    last_update_int = 1649993832,
+    last_update = "2022-04-15 15:46:22",
+    last_update_int = 1650030382,
     performance = {
       {
         zoneId = 1011,
@@ -12867,86 +13719,8 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Protection",
-            percentRank = 93.912180914492,
-          },
-          {
-            spec = "Gladiator",
-            percentRank = 93.654133787199,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Protection",
-            percentRank = 85.070805411556,
-          },
-          {
-            spec = "Gladiator",
-            percentRank = 82.185149969747,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "서닥돌-로크홀라" ] = {
-    level = "60",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:36:13",
-    last_update_int = 1649993773,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arms",
-            percentRank = 98.4205610122,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arms",
-            percentRank = 23.718904046773,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "서요불-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 06:37:21",
-    last_update_int = 1649997441,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 49.309260312792,
+            spec = "Destruction",
+            percentRank = 91.268835856163,
           },
         },
         encountersKilled = 14,
@@ -12961,12 +13735,146 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "선울-로크홀라" ] = {
+  [ "서든데쓰-로크홀라" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 06:25:24",
-    last_update_int = 1649996724,
+    last_update = "2022-04-15 14:36:20",
+    last_update_int = 1650026180,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 98.259102526501,
+          },
+          {
+            spec = "Gladiator",
+            percentRank = 78.875040929928,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 98.475182822468,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "석이도적-로크홀라" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 09:59:46",
+    last_update_int = 1650009586,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Combat",
+            percentRank = 91.077153336598,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "선녀보살-로크홀라" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 08:34:29",
+    last_update_int = 1650004469,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 91.377857931018,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "설윤-로크홀라" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 14:01:47",
+    last_update_int = 1650024107,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Shadow",
+            percentRank = 98.158177710695,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Shadow",
+            percentRank = 93.479596631366,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "성산동사냥꾼-로크홀라" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 05:40:19",
+    last_update_int = 1649994019,
     performance = {
       {
         zoneId = 1011,
@@ -12976,7 +13884,7 @@ LogTracker_CharacterData_KR = {
         allstars = {
           {
             spec = "BeastMastery",
-            percentRank = 98.746565641052,
+            percentRank = 94.822437242956,
           },
         },
         encountersKilled = 14,
@@ -12989,9 +13897,39 @@ LogTracker_CharacterData_KR = {
         allstars = {
           {
             spec = "BeastMastery",
-            percentRank = 88.30120463152,
+            percentRank = 86.410883760071,
           },
         },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "세레피나-로크홀라" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 16:34:31",
+    last_update_int = 1650033271,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 93.102381511633,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
         encountersKilled = 6,
       },
     },
@@ -13239,19 +14177,94 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "상큼한오크-로크홀라" ] = {
+  [ "스님의살생부-로크홀라" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 12:07:33",
-    last_update_int = 1650017253,
+    last_update = "2022-04-15 06:56:43",
+    last_update_int = 1649998603,
     performance = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        allstars = {},
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 93.461492516937,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 79.949820006545,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "스칼렛오하라-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:29:04",
+    last_update_int = 1649993344,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 26.605553826172,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 19.910321634906,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "스타벅스돌체라떼-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:05:14",
+    last_update_int = 1649991914,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 95.538457841087,
+          },
+        },
         encountersKilled = 14,
       },
       {
@@ -13262,19 +14275,19 @@ LogTracker_CharacterData_KR = {
         allstars = {
           {
             spec = "Destruction",
-            percentRank = 73.183456410515,
+            percentRank = 41.422422627588,
           },
         },
         encountersKilled = 6,
       },
     },
   },
-  [ "서나미-로크홀라" ] = {
+  [ "스탈반의전설-로크홀라" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 15:46:22",
-    last_update_int = 1650030382,
+    last_update = "2022-04-15 06:14:29",
+    last_update_int = 1649996069,
     performance = {
       {
         zoneId = 1011,
@@ -13284,7 +14297,7 @@ LogTracker_CharacterData_KR = {
         allstars = {
           {
             spec = "Destruction",
-            percentRank = 91.268835856163,
+            percentRank = 99.355574095246,
           },
         },
         encountersKilled = 14,
@@ -13294,17 +14307,22 @@ LogTracker_CharacterData_KR = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        allstars = {},
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 98.284740725559,
+          },
+        },
         encountersKilled = 6,
       },
     },
   },
-  [ "서든데쓰-로크홀라" ] = {
+  [ "승아대디-로크홀라" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 14:36:20",
-    last_update_int = 1650026180,
+    last_update = "2022-04-15 05:36:10",
+    last_update_int = 1649993770,
     performance = {
       {
         zoneId = 1011,
@@ -13313,12 +14331,8 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Protection",
-            percentRank = 98.259102526501,
-          },
-          {
-            spec = "Gladiator",
-            percentRank = 78.875040929928,
+            spec = "Arcane",
+            percentRank = 98.641291353859,
           },
         },
         encountersKilled = 14,
@@ -13330,50 +14344,20 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Protection",
-            percentRank = 98.475182822468,
+            spec = "Arcane",
+            percentRank = 70.667072799269,
           },
         },
         encountersKilled = 6,
       },
     },
   },
-  [ "석이도적-로크홀라" ] = {
+  [ "승우맘이-로크홀라" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 09:59:46",
-    last_update_int = 1650009586,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Combat",
-            percentRank = 91.077153336598,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "선녀보살-로크홀라" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 08:34:29",
-    last_update_int = 1650004469,
+    last_update = "2022-04-15 05:37:04",
+    last_update_int = 1649993824,
     performance = {
       {
         zoneId = 1011,
@@ -13383,7 +14367,7 @@ LogTracker_CharacterData_KR = {
         allstars = {
           {
             spec = "Holy",
-            percentRank = 91.377857931018,
+            percentRank = 98.883523367702,
           },
         },
         encountersKilled = 14,
@@ -13398,12 +14382,12 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "설윤-로크홀라" ] = {
+  [ "시공붐은없다-로크홀라" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 14:01:47",
-    last_update_int = 1650024107,
+    last_update = "2022-04-15 06:14:22",
+    last_update_int = 1649996062,
     performance = {
       {
         zoneId = 1011,
@@ -13412,8 +14396,8 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Shadow",
-            percentRank = 98.158177710695,
+            spec = "Arcane",
+            percentRank = 99.808045686493,
           },
         },
         encountersKilled = 14,
@@ -13425,20 +14409,20 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Shadow",
-            percentRank = 93.479596631366,
+            spec = "Arcane",
+            percentRank = 92.818705307283,
           },
         },
         encountersKilled = 6,
       },
     },
   },
-  [ "성산동사냥꾼-로크홀라" ] = {
+  [ "시즐링-로크홀라" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 05:40:19",
-    last_update_int = 1649994019,
+    last_update = "2022-04-15 15:32:40",
+    last_update_int = 1650029560,
     performance = {
       {
         zoneId = 1011,
@@ -13447,8 +14431,8 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "BeastMastery",
-            percentRank = 94.822437242956,
+            spec = "Enhancement",
+            percentRank = 97.637262965759,
           },
         },
         encountersKilled = 14,
@@ -13460,40 +14444,10 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "BeastMastery",
-            percentRank = 86.410883760071,
+            spec = "Enhancement",
+            percentRank = 68.503985663968,
           },
         },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "세레피나-로크홀라" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 16:34:31",
-    last_update_int = 1650033271,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Elemental",
-            percentRank = 93.102381511633,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
         encountersKilled = 6,
       },
     },
@@ -13828,12 +14782,90 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "스님의살생부-로크홀라" ] = {
+  [ "스톤콜드-로크홀라" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 06:56:43",
-    last_update_int = 1649998603,
+    last_update = "2022-04-15 11:25:15",
+    last_update_int = 1650014715,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 93.618804206645,
+          },
+          {
+            spec = "Gladiator",
+            percentRank = 76.614685658153,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 64.070328302474,
+          },
+          {
+            spec = "Gladiator",
+            percentRank = 38.167938931298,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "승리술사-로크홀라" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 15:26:18",
+    last_update_int = 1650029178,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 93.601370357427,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 65.921493537578,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "시퍼레-로크홀라" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 14:55:21",
+    last_update_int = 1650027321,
     performance = {
       {
         zoneId = 1011,
@@ -13843,182 +14875,7 @@ LogTracker_CharacterData_KR = {
         allstars = {
           {
             spec = "BeastMastery",
-            percentRank = 93.461492516937,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "BeastMastery",
-            percentRank = 79.949820006545,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "스칼렛오하라-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:29:04",
-    last_update_int = 1649993344,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 26.605553826172,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 19.910321634906,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "스타벅스돌체라떼-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:05:14",
-    last_update_int = 1649991914,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 95.538457841087,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 41.422422627588,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "스탈반의전설-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 06:14:29",
-    last_update_int = 1649996069,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 99.355574095246,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 98.284740725559,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "승아대디-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:36:10",
-    last_update_int = 1649993770,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 98.641291353859,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 70.667072799269,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "승우맘이-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:37:04",
-    last_update_int = 1649993824,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 98.883523367702,
+            percentRank = 99.029492092393,
           },
         },
         encountersKilled = 14,
@@ -14033,12 +14890,12 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "시공붐은없다-로크홀라" ] = {
+  [ "신사수사김암사-로크홀라" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 06:14:22",
-    last_update_int = 1649996062,
+    last_update = "2022-04-15 16:51:32",
+    last_update_int = 1650034292,
     performance = {
       {
         zoneId = 1011,
@@ -14047,8 +14904,12 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Arcane",
-            percentRank = 99.808045686493,
+            spec = "Holy",
+            percentRank = 90.734354217917,
+          },
+          {
+            spec = "Discipline",
+            percentRank = 89.836571076164,
           },
         },
         encountersKilled = 14,
@@ -14060,43 +14921,12 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Arcane",
-            percentRank = 92.818705307283,
+            spec = "Holy",
+            percentRank = 71.859931560118,
           },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "시즐링-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 15:32:40",
-    last_update_int = 1650029560,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
           {
-            spec = "Enhancement",
-            percentRank = 97.637262965759,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Enhancement",
-            percentRank = 68.503985663968,
+            spec = "Discipline",
+            percentRank = 52.273863068466,
           },
         },
         encountersKilled = 6,
@@ -14324,12 +15154,12 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "스톤콜드-로크홀라" ] = {
+  [ "알탱-로크홀라" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 11:25:15",
-    last_update_int = 1650014715,
+    last_update = "2022-04-15 05:38:22",
+    last_update_int = 1649993902,
     performance = {
       {
         zoneId = 1011,
@@ -14339,11 +15169,15 @@ LogTracker_CharacterData_KR = {
         allstars = {
           {
             spec = "Protection",
-            percentRank = 93.618804206645,
+            percentRank = 97.341789517006,
           },
           {
             spec = "Gladiator",
-            percentRank = 76.614685658153,
+            percentRank = 84.496363917685,
+          },
+          {
+            spec = "Arms",
+            percentRank = 22.901865323106,
           },
         },
         encountersKilled = 14,
@@ -14355,24 +15189,24 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Protection",
-            percentRank = 64.070328302474,
-          },
-          {
             spec = "Gladiator",
-            percentRank = 38.167938931298,
+            percentRank = 94.064597919728,
+          },
+          {
+            spec = "Protection",
+            percentRank = 76.122139334935,
           },
         },
         encountersKilled = 6,
       },
     },
   },
-  [ "승리술사-로크홀라" ] = {
+  [ "앙초-로크홀라" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 15:26:18",
-    last_update_int = 1650029178,
+    last_update = "2022-04-15 05:04:25",
+    last_update_int = 1649991865,
     performance = {
       {
         zoneId = 1011,
@@ -14381,43 +15215,8 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Elemental",
-            percentRank = 93.601370357427,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Elemental",
-            percentRank = 65.921493537578,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "시퍼레-로크홀라" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 14:55:21",
-    last_update_int = 1650027321,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "BeastMastery",
-            percentRank = 99.029492092393,
+            spec = "Restoration",
+            percentRank = 0.35315207007224,
           },
         },
         encountersKilled = 14,
@@ -14432,12 +15231,12 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "신사수사김암사-로크홀라" ] = {
+  [ "앞가마너의불충은-로크홀라" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 16:51:32",
-    last_update_int = 1650034292,
+    last_update = "2022-04-15 17:43:09",
+    last_update_int = 1650037389,
     performance = {
       {
         zoneId = 1011,
@@ -14446,12 +15245,16 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Holy",
-            percentRank = 90.734354217917,
+            spec = "Feral",
+            percentRank = 94.751479099333,
           },
           {
-            spec = "Discipline",
-            percentRank = 89.836571076164,
+            spec = "Warden",
+            percentRank = 81.269343191197,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 48.444801006082,
           },
         },
         encountersKilled = 14,
@@ -14463,14 +15266,48 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Holy",
-            percentRank = 71.859931560118,
+            spec = "Feral",
+            percentRank = 74.410544855406,
           },
           {
-            spec = "Discipline",
-            percentRank = 52.273863068466,
+            spec = "Warden",
+            percentRank = 70.014732362089,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 57.33825976314,
           },
         },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "야드할껄그랬으연-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:37:19",
+    last_update_int = 1649993839,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 17.476132083735,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
         encountersKilled = 6,
       },
     },
@@ -14915,447 +15752,6 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "알탱-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:38:22",
-    last_update_int = 1649993902,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Protection",
-            percentRank = 97.341789517006,
-          },
-          {
-            spec = "Gladiator",
-            percentRank = 84.496363917685,
-          },
-          {
-            spec = "Arms",
-            percentRank = 22.901865323106,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Gladiator",
-            percentRank = 94.064597919728,
-          },
-          {
-            spec = "Protection",
-            percentRank = 76.122139334935,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "앙초-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:04:25",
-    last_update_int = 1649991865,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 0.35315207007224,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "앞가마너의불충은-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 17:43:09",
-    last_update_int = 1650037389,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Feral",
-            percentRank = 94.751479099333,
-          },
-          {
-            spec = "Warden",
-            percentRank = 81.269343191197,
-          },
-          {
-            spec = "Guardian",
-            percentRank = 48.444801006082,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Feral",
-            percentRank = 74.410544855406,
-          },
-          {
-            spec = "Warden",
-            percentRank = 70.014732362089,
-          },
-          {
-            spec = "Guardian",
-            percentRank = 57.33825976314,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "야드할껄그랬으연-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:37:19",
-    last_update_int = 1649993839,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Balance",
-            percentRank = 17.476132083735,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "얼라말고호드할껄-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 06:37:10",
-    last_update_int = 1649997430,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Enhancement",
-            percentRank = 64.106452606014,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Enhancement",
-            percentRank = 64.542145233164,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "에스웍스벤지-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 18:16:45",
-    last_update_int = 1650039405,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Combat",
-            percentRank = 13.947837655559,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "여우비나-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:04:00",
-    last_update_int = 1649991840,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 48.390541390316,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 63.300575405849,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "역도왕장미란-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 13:42:26",
-    last_update_int = 1650022946,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Protection",
-            percentRank = 97.549964385972,
-          },
-          {
-            spec = "Gladiator",
-            percentRank = 84.730067125082,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Protection",
-            percentRank = 82.763342150303,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "역삼동인디안밥-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 18:14:30",
-    last_update_int = 1650039270,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Elemental",
-            percentRank = 95.713049904613,
-          },
-          {
-            spec = "Restoration",
-            percentRank = 60.532571947388,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Elemental",
-            percentRank = 76.139301101005,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "역삼동흑염룡-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 13:07:21",
-    last_update_int = 1650020841,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 99.468519894043,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 77.220330288825,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "연남동김전사-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 17:04:42",
-    last_update_int = 1650035082,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arms",
-            percentRank = 98.508990318119,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Fury",
-            percentRank = 77.494168068139,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "열라법사-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 06:14:21",
-    last_update_int = 1649996061,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 96.085429916182,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 72.105942590256,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
   [ "앎소-로크홀라" ] = {
     level = "0",
     faction = "Horde",
@@ -15625,6 +16021,440 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
+  [ "얼라말고호드할껄-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:37:10",
+    last_update_int = 1649997430,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Enhancement",
+            percentRank = 64.106452606014,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Enhancement",
+            percentRank = 64.542145233164,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "에스웍스벤지-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 18:16:45",
+    last_update_int = 1650039405,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Combat",
+            percentRank = 13.947837655559,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "여명의하늘-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:07:20",
+    last_update_int = 1650042440,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 91.881548870544,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 85.808999521302,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "여우비나-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:04:00",
+    last_update_int = 1649991840,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 48.390541390316,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 63.300575405849,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "역도왕장미란-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 13:42:26",
+    last_update_int = 1650022946,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 97.549964385972,
+          },
+          {
+            spec = "Gladiator",
+            percentRank = 84.730067125082,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 82.763342150303,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "역삼동인디안밥-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 18:14:30",
+    last_update_int = 1650039270,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 95.713049904613,
+          },
+          {
+            spec = "Restoration",
+            percentRank = 60.532571947388,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 76.139301101005,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "역삼동흑염룡-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 13:07:21",
+    last_update_int = 1650020841,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 99.468519894043,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 77.220330288825,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "연남동김전사-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 17:04:42",
+    last_update_int = 1650035082,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arms",
+            percentRank = 98.508990318119,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Fury",
+            percentRank = 77.494168068139,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "열라법사-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:14:21",
+    last_update_int = 1649996061,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 96.085429916182,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 72.105942590256,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "오마이걸김지호-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:45:09",
+    last_update_int = 1649994309,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 63.153295405236,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 51.690557225548,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "와레버-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:52:03",
+    last_update_int = 1649994723,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Fury",
+            percentRank = 98.64606673267,
+          },
+          {
+            spec = "Arms",
+            percentRank = 83.404568484814,
+          },
+          {
+            spec = "Champion",
+            percentRank = 23.782488014131,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Gladiator",
+            percentRank = 98.213616849627,
+          },
+          {
+            spec = "Protection",
+            percentRank = 89.350739663674,
+          },
+          {
+            spec = "Fury",
+            percentRank = 35.950869445211,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "외계아가씨-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:52:28",
+    last_update_int = 1649994748,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 84.275709946483,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "언데굴-로크홀라" ] = {
     level = "0",
     faction = "Horde",
@@ -15873,313 +16703,6 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "오마이걸김지호-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:45:09",
-    last_update_int = 1649994309,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 63.153295405236,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 51.690557225548,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "와레버-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:52:03",
-    last_update_int = 1649994723,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Fury",
-            percentRank = 98.64606673267,
-          },
-          {
-            spec = "Arms",
-            percentRank = 83.404568484814,
-          },
-          {
-            spec = "Champion",
-            percentRank = 23.782488014131,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Gladiator",
-            percentRank = 98.213616849627,
-          },
-          {
-            spec = "Protection",
-            percentRank = 89.350739663674,
-          },
-          {
-            spec = "Fury",
-            percentRank = 35.950869445211,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "외계아가씨-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:52:28",
-    last_update_int = 1649994748,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 84.275709946483,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "유니씨-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:38:04",
-    last_update_int = 1649993884,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 95.909251648831,
-          },
-          {
-            spec = "Affliction",
-            percentRank = 73.181796922501,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 96.409356425497,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "유조건-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 07:33:44",
-    last_update_int = 1650000824,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Justicar",
-            percentRank = 93.795323435268,
-          },
-          {
-            spec = "Protection",
-            percentRank = 77.749672745883,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Justicar",
-            percentRank = 72.390240643944,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "유하링-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 06:33:23",
-    last_update_int = 1649997203,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 50.229014994455,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 7.6963207711226,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "으앙쯔아-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:35:22",
-    last_update_int = 1649993722,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 98.900321697961,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Destruction",
-            percentRank = 93.27474892396,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "이게얼라야-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:04:03",
-    last_update_int = 1649991843,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Survival",
-            percentRank = 96.735596306412,
-          },
-          {
-            spec = "BeastMastery",
-            percentRank = 2.1314356900288,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Survival",
-            percentRank = 64.265784850677,
-          },
-          {
-            spec = "BeastMastery",
-            percentRank = 52.129532952048,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
   [ "옆동네쌥쌥이-로크홀라" ] = {
     level = "0",
     faction = "Horde",
@@ -16415,6 +16938,257 @@ LogTracker_CharacterData_KR = {
             percentRank = 95.999593867398,
           },
         },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "유니씨-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:38:04",
+    last_update_int = 1649993884,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 95.909251648831,
+          },
+          {
+            spec = "Affliction",
+            percentRank = 73.181796922501,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 96.409356425497,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "유다희-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:14:37",
+    last_update_int = 1650042877,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Combat",
+            percentRank = 92.314230545367,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "유조건-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 07:33:44",
+    last_update_int = 1650000824,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Justicar",
+            percentRank = 93.795323435268,
+          },
+          {
+            spec = "Protection",
+            percentRank = 77.749672745883,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Justicar",
+            percentRank = 72.390240643944,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "유하링-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:33:23",
+    last_update_int = 1649997203,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 50.229014994455,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 7.6963207711226,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "으앙쯔아-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:35:22",
+    last_update_int = 1649993722,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 98.900321697961,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 93.27474892396,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "이게얼라야-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:04:03",
+    last_update_int = 1649991843,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Survival",
+            percentRank = 96.735596306412,
+          },
+          {
+            spec = "BeastMastery",
+            percentRank = 2.1314356900288,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Survival",
+            percentRank = 64.265784850677,
+          },
+          {
+            spec = "BeastMastery",
+            percentRank = 52.129532952048,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "이불솜-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 06:08:07",
+    last_update_int = 1649995687,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Retribution",
+            percentRank = 86.641546673844,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
         encountersKilled = 6,
       },
     },
@@ -16983,12 +17757,12 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "이불솜-로크홀라" ] = {
+  [ "이글헌터스-로크홀라" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 06:08:07",
-    last_update_int = 1649995687,
+    last_update = "2022-04-15 13:06:15",
+    last_update_int = 1650020775,
     performance = {
       {
         zoneId = 1011,
@@ -16997,8 +17771,148 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Retribution",
-            percentRank = 86.641546673844,
+            spec = "Elemental",
+            percentRank = 96.662331784616,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 86.474389660124,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "이놈의인기는-로크홀라" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 13:05:09",
+    last_update_int = 1650020709,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 87.156632308699,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 91.050284264972,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "이던전처음-로크홀라" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 15:16:45",
+    last_update_int = 1650028605,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arms",
+            percentRank = 97.723374827109,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arms",
+            percentRank = 77.723049367514,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "이빌헌터-로크홀라" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 09:06:43",
+    last_update_int = 1650006403,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 96.621102749194,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 66.731599370413,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "이쁘게사는소-로크홀라" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 12:38:16",
+    last_update_int = 1650019096,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 85.773938543925,
           },
         },
         encountersKilled = 14,
@@ -17009,6 +17923,41 @@ LogTracker_CharacterData_KR = {
         zoneEncounters = "6",
         partition = 5,
         allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "이실명-로크홀라" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 05:31:29",
+    last_update_int = 1649993489,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Combat",
+            percentRank = 97.552789819606,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Combat",
+            percentRank = 69.998932726173,
+          },
+        },
         encountersKilled = 6,
       },
     },
@@ -17237,6 +18186,41 @@ LogTracker_CharacterData_KR = {
           {
             spec = "Arcane",
             percentRank = 76.685997634687,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "임봉핵-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 20:32:27",
+    last_update_int = 1650047547,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 94.321608210638,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 83.754862427153,
           },
         },
         encountersKilled = 6,
@@ -17487,12 +18471,12 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "이글헌터스-로크홀라" ] = {
+  [ "전사귀신-로크홀라" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 13:06:15",
-    last_update_int = 1650020775,
+    last_update = "2022-04-15 05:44:21",
+    last_update_int = 1649994261,
     performance = {
       {
         zoneId = 1011,
@@ -17501,8 +18485,12 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Elemental",
-            percentRank = 96.662331784616,
+            spec = "Protection",
+            percentRank = 99.332017770649,
+          },
+          {
+            spec = "Gladiator",
+            percentRank = 94.850688534736,
           },
         },
         encountersKilled = 14,
@@ -17514,20 +18502,24 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Elemental",
-            percentRank = 86.474389660124,
+            spec = "Gladiator",
+            percentRank = 98.461405480162,
+          },
+          {
+            spec = "Protection",
+            percentRank = 97.692502212669,
           },
         },
         encountersKilled = 6,
       },
     },
   },
-  [ "이놈의인기는-로크홀라" ] = {
+  [ "전사인트-로크홀라" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 13:05:09",
-    last_update_int = 1650020709,
+    last_update = "2022-04-15 06:26:09",
+    last_update_int = 1649996769,
     performance = {
       {
         zoneId = 1011,
@@ -17536,8 +18528,12 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Arcane",
-            percentRank = 87.156632308699,
+            spec = "Protection",
+            percentRank = 95.952006584849,
+          },
+          {
+            spec = "Gladiator",
+            percentRank = 11.80978905565,
           },
         },
         encountersKilled = 14,
@@ -17549,143 +18545,12 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Arcane",
-            percentRank = 91.050284264972,
+            spec = "Gladiator",
+            percentRank = 95.309303598698,
           },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "이던전처음-로크홀라" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 15:16:45",
-    last_update_int = 1650028605,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
           {
-            spec = "Arms",
-            percentRank = 97.723374827109,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arms",
-            percentRank = 77.723049367514,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "이빌헌터-로크홀라" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 09:06:43",
-    last_update_int = 1650006403,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "BeastMastery",
-            percentRank = 96.621102749194,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "BeastMastery",
-            percentRank = 66.731599370413,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "이쁘게사는소-로크홀라" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 12:38:16",
-    last_update_int = 1650019096,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 85.773938543925,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "이실명-로크홀라" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 05:31:29",
-    last_update_int = 1649993489,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Combat",
-            percentRank = 97.552789819606,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Combat",
-            percentRank = 69.998932726173,
+            spec = "Protection",
+            percentRank = 91.961689214819,
           },
         },
         encountersKilled = 6,
@@ -17956,12 +18821,12 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "전사귀신-로크홀라" ] = {
+  [ "저세상동맹-로크홀라" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 05:44:21",
-    last_update_int = 1649994261,
+    last_update = "2022-04-15 11:58:11",
+    last_update_int = 1650016691,
     performance = {
       {
         zoneId = 1011,
@@ -17970,12 +18835,8 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Protection",
-            percentRank = 99.332017770649,
-          },
-          {
-            spec = "Gladiator",
-            percentRank = 94.850688534736,
+            spec = "Destruction",
+            percentRank = 92.323951116408,
           },
         },
         encountersKilled = 14,
@@ -17987,24 +18848,20 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Gladiator",
-            percentRank = 98.461405480162,
-          },
-          {
-            spec = "Protection",
-            percentRank = 97.692502212669,
+            spec = "Destruction",
+            percentRank = 75.511001335786,
           },
         },
         encountersKilled = 6,
       },
     },
   },
-  [ "전사인트-로크홀라" ] = {
+  [ "적인걸-로크홀라" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 06:26:09",
-    last_update_int = 1649996769,
+    last_update = "2022-04-15 15:09:36",
+    last_update_int = 1650028176,
     performance = {
       {
         zoneId = 1011,
@@ -18013,12 +18870,42 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Protection",
-            percentRank = 95.952006584849,
+            spec = "Combat",
+            percentRank = 95.578303568954,
           },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "전사렌카-로크홀라" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 05:42:21",
+    last_update_int = 1649994141,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
           {
             spec = "Gladiator",
-            percentRank = 11.80978905565,
+            percentRank = 95.306617154056,
+          },
+          {
+            spec = "Protection",
+            percentRank = 95.108850500723,
           },
         },
         encountersKilled = 14,
@@ -18031,11 +18918,81 @@ LogTracker_CharacterData_KR = {
         allstars = {
           {
             spec = "Gladiator",
-            percentRank = 95.309303598698,
+            percentRank = 97.69498948339,
           },
           {
             spec = "Protection",
-            percentRank = 91.961689214819,
+            percentRank = 79.931091161967,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "전자파-로크홀라" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 18:42:17",
+    last_update_int = 1650040937,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 33.604716451432,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 20.57559927745,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "전투력측정기-로크홀라" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 18:56:16",
+    last_update_int = 1650041776,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Retribution",
+            percentRank = 97.355444997236,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Retribution",
+            percentRank = 44.882154882155,
           },
         },
         encountersKilled = 6,
@@ -18437,12 +19394,12 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "저세상동맹-로크홀라" ] = {
+  [ "지쎈-로크홀라" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 11:58:11",
-    last_update_int = 1650016691,
+    last_update = "2022-04-15 08:00:21",
+    last_update_int = 1650002421,
     performance = {
       {
         zoneId = 1011,
@@ -18451,8 +19408,8 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Destruction",
-            percentRank = 92.323951116408,
+            spec = "Restoration",
+            percentRank = 76.71942047153,
           },
         },
         encountersKilled = 14,
@@ -18464,20 +19421,20 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Destruction",
-            percentRank = 75.511001335786,
+            spec = "Restoration",
+            percentRank = 85.864407621792,
           },
         },
         encountersKilled = 6,
       },
     },
   },
-  [ "적인걸-로크홀라" ] = {
+  [ "지풍승-로크홀라" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 15:09:36",
-    last_update_int = 1650028176,
+    last_update = "2022-04-15 05:58:03",
+    last_update_int = 1649995083,
     performance = {
       {
         zoneId = 1011,
@@ -18486,8 +19443,8 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Combat",
-            percentRank = 95.578303568954,
+            spec = "Enhancement",
+            percentRank = 89.474464373268,
           },
         },
         encountersKilled = 14,
@@ -18502,12 +19459,12 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "전사렌카-로크홀라" ] = {
+  [ "지호수호-로크홀라" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 05:42:21",
-    last_update_int = 1649994141,
+    last_update = "2022-04-15 06:36:21",
+    last_update_int = 1649997381,
     performance = {
       {
         zoneId = 1011,
@@ -18516,12 +19473,8 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Gladiator",
-            percentRank = 95.306617154056,
-          },
-          {
-            spec = "Protection",
-            percentRank = 95.108850500723,
+            spec = "Elemental",
+            percentRank = 96.11909970964,
           },
         },
         encountersKilled = 14,
@@ -18533,59 +19486,20 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Gladiator",
-            percentRank = 97.69498948339,
-          },
-          {
-            spec = "Protection",
-            percentRank = 79.931091161967,
+            spec = "Elemental",
+            percentRank = 97.145846513212,
           },
         },
         encountersKilled = 6,
       },
     },
   },
-  [ "전자파-로크홀라" ] = {
+  [ "징캬-로크홀라" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 18:42:17",
-    last_update_int = 1650040937,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 33.604716451432,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 20.57559927745,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "전투력측정기-로크홀라" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 18:56:16",
-    last_update_int = 1650041776,
+    last_update = "2022-04-15 06:22:12",
+    last_update_int = 1649996532,
     performance = {
       {
         zoneId = 1011,
@@ -18595,7 +19509,7 @@ LogTracker_CharacterData_KR = {
         allstars = {
           {
             spec = "Retribution",
-            percentRank = 97.355444997236,
+            percentRank = 99.306957340869,
           },
         },
         encountersKilled = 14,
@@ -18607,8 +19521,8 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Retribution",
-            percentRank = 44.882154882155,
+            spec = "Justicar",
+            percentRank = 97.439922512984,
           },
         },
         encountersKilled = 6,
@@ -18929,12 +19843,12 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "지쎈-로크홀라" ] = {
+  [ "진경의거인-로크홀라" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 08:00:21",
-    last_update_int = 1650002421,
+    last_update = "2022-04-15 17:48:10",
+    last_update_int = 1650037690,
     performance = {
       {
         zoneId = 1011,
@@ -18943,8 +19857,16 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Restoration",
-            percentRank = 76.71942047153,
+            spec = "Warden",
+            percentRank = 98.322515474553,
+          },
+          {
+            spec = "Feral",
+            percentRank = 89.083119476866,
+          },
+          {
+            spec = "Guardian",
+            percentRank = 86.115417556565,
           },
         },
         encountersKilled = 14,
@@ -18956,20 +19878,28 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Restoration",
-            percentRank = 85.864407621792,
+            spec = "Guardian",
+            percentRank = 94.227757658804,
+          },
+          {
+            spec = "Feral",
+            percentRank = 84.108857451281,
+          },
+          {
+            spec = "Warden",
+            percentRank = 77.344900965788,
           },
         },
         encountersKilled = 6,
       },
     },
   },
-  [ "지풍승-로크홀라" ] = {
+  [ "질풍돼지-로크홀라" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 05:58:03",
-    last_update_int = 1649995083,
+    last_update = "2022-04-15 05:35:17",
+    last_update_int = 1649993717,
     performance = {
       {
         zoneId = 1011,
@@ -18979,37 +19909,7 @@ LogTracker_CharacterData_KR = {
         allstars = {
           {
             spec = "Enhancement",
-            percentRank = 89.474464373268,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "지호수호-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 06:36:21",
-    last_update_int = 1649997381,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Elemental",
-            percentRank = 96.11909970964,
+            percentRank = 93.413986157512,
           },
         },
         encountersKilled = 14,
@@ -19021,43 +19921,8 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Elemental",
-            percentRank = 97.145846513212,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "징캬-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 06:22:12",
-    last_update_int = 1649996532,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Retribution",
-            percentRank = 99.306957340869,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Justicar",
-            percentRank = 97.439922512984,
+            spec = "Enhancement",
+            percentRank = 86.30829096843,
           },
         },
         encountersKilled = 6,
@@ -19419,12 +20284,12 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "진경의거인-로크홀라" ] = {
+  [ "춤추는에테르-로크홀라" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 17:48:10",
-    last_update_int = 1650037690,
+    last_update = "2022-04-15 05:05:36",
+    last_update_int = 1649991936,
     performance = {
       {
         zoneId = 1011,
@@ -19433,16 +20298,8 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Warden",
-            percentRank = 98.322515474553,
-          },
-          {
-            spec = "Feral",
-            percentRank = 89.083119476866,
-          },
-          {
-            spec = "Guardian",
-            percentRank = 86.115417556565,
+            spec = "BeastMastery",
+            percentRank = 97.067782726668,
           },
         },
         encountersKilled = 14,
@@ -19454,28 +20311,50 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Guardian",
-            percentRank = 94.227757658804,
-          },
-          {
-            spec = "Feral",
-            percentRank = 84.108857451281,
-          },
-          {
-            spec = "Warden",
-            percentRank = 77.344900965788,
+            spec = "BeastMastery",
+            percentRank = 90.983185027038,
           },
         },
         encountersKilled = 6,
       },
     },
   },
-  [ "질풍돼지-로크홀라" ] = {
+  [ "치유꿈나무-로크홀라" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 05:35:17",
-    last_update_int = 1649993717,
+    last_update = "2022-04-15 08:30:33",
+    last_update_int = 1650004233,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Shadow",
+            percentRank = 17.607765057242,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "카라스주술-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:40:21",
+    last_update_int = 1649994021,
     performance = {
       {
         zoneId = 1011,
@@ -19485,7 +20364,7 @@ LogTracker_CharacterData_KR = {
         allstars = {
           {
             spec = "Enhancement",
-            percentRank = 93.413986157512,
+            percentRank = 85.78579491682,
           },
         },
         encountersKilled = 14,
@@ -19498,7 +20377,46 @@ LogTracker_CharacterData_KR = {
         allstars = {
           {
             spec = "Enhancement",
-            percentRank = 86.30829096843,
+            percentRank = 59.100608799347,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "카발레리아-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:50:04",
+    last_update_int = 1649994604,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 99.458784920438,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Justicar",
+            percentRank = 39.147642824936,
+          },
+          {
+            spec = "Protection",
+            percentRank = 3.7743492197682,
           },
         },
         encountersKilled = 6,
@@ -19744,6 +20662,41 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
+  [ "챠빠빠-로크홀라" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 20:38:06",
+    last_update_int = 1650047886,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 30.308342896001,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 13.969965344628,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "청송운-로크홀라" ] = {
     level = "0",
     faction = "Horde",
@@ -19844,12 +20797,12 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "춤추는에테르-로크홀라" ] = {
+  [ "츄럴머니-로크홀라" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 05:05:36",
-    last_update_int = 1649991936,
+    last_update = "2022-04-15 16:40:31",
+    last_update_int = 1650033631,
     performance = {
       {
         zoneId = 1011,
@@ -19858,8 +20811,8 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "BeastMastery",
-            percentRank = 97.067782726668,
+            spec = "Arcane",
+            percentRank = 96.660866851854,
           },
         },
         encountersKilled = 14,
@@ -19871,20 +20824,20 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "BeastMastery",
-            percentRank = 90.983185027038,
+            spec = "Arcane",
+            percentRank = 74.012909476924,
           },
         },
         encountersKilled = 6,
       },
     },
   },
-  [ "치유꿈나무-로크홀라" ] = {
+  [ "츄럴하는솔라-로크홀라" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 08:30:33",
-    last_update_int = 1650004233,
+    last_update = "2022-04-15 08:41:24",
+    last_update_int = 1650004884,
     performance = {
       {
         zoneId = 1011,
@@ -19893,8 +20846,8 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Shadow",
-            percentRank = 17.607765057242,
+            spec = "Arcane",
+            percentRank = 98.989678186203,
           },
         },
         encountersKilled = 14,
@@ -19909,12 +20862,12 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "카라스주술-로크홀라" ] = {
+  [ "카에아-로크홀라" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 05:40:21",
-    last_update_int = 1649994021,
+    last_update = "2022-04-15 14:01:43",
+    last_update_int = 1650024103,
     performance = {
       {
         zoneId = 1011,
@@ -19923,8 +20876,12 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Enhancement",
-            percentRank = 85.78579491682,
+            spec = "Affliction",
+            percentRank = 77.936515228077,
+          },
+          {
+            spec = "Destruction",
+            percentRank = 72.49597929379,
           },
         },
         encountersKilled = 14,
@@ -19936,47 +20893,8 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Enhancement",
-            percentRank = 59.100608799347,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "카발레리아-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 05:50:04",
-    last_update_int = 1649994604,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 99.458784920438,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Justicar",
-            percentRank = 39.147642824936,
-          },
-          {
-            spec = "Protection",
-            percentRank = 3.7743492197682,
+            spec = "Destruction",
+            percentRank = 4.7017163596038,
           },
         },
         encountersKilled = 6,
@@ -20345,6 +21263,41 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
+  [ "탐슨-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:20:27",
+    last_update_int = 1650043227,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 93.45367101144,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Arcane",
+            percentRank = 84.55564896482,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "태봉이-로크홀라" ] = {
     level = "0",
     faction = "Alliance",
@@ -20414,12 +21367,12 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "츄럴머니-로크홀라" ] = {
+  [ "테일러더든-로크홀라" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 16:40:31",
-    last_update_int = 1650033631,
+    last_update = "2022-04-15 17:08:46",
+    last_update_int = 1650035326,
     performance = {
       {
         zoneId = 1011,
@@ -20428,43 +21381,8 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Arcane",
-            percentRank = 96.660866851854,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 74.012909476924,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "츄럴하는솔라-로크홀라" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 08:41:24",
-    last_update_int = 1650004884,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Arcane",
-            percentRank = 98.989678186203,
+            spec = "Restoration",
+            percentRank = 61.795907152329,
           },
         },
         encountersKilled = 14,
@@ -20479,12 +21397,12 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "카에아-로크홀라" ] = {
+  [ "토롱이-로크홀라" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 14:01:43",
-    last_update_int = 1650024103,
+    last_update = "2022-04-15 19:06:20",
+    last_update_int = 1650042380,
     performance = {
       {
         zoneId = 1011,
@@ -20494,11 +21412,11 @@ LogTracker_CharacterData_KR = {
         allstars = {
           {
             spec = "Affliction",
-            percentRank = 77.936515228077,
+            percentRank = 97.432128255777,
           },
           {
             spec = "Destruction",
-            percentRank = 72.49597929379,
+            percentRank = 1.2579432423111,
           },
         },
         encountersKilled = 14,
@@ -20511,7 +21429,81 @@ LogTracker_CharacterData_KR = {
         allstars = {
           {
             spec = "Destruction",
-            percentRank = 4.7017163596038,
+            percentRank = 80.050155001638,
+          },
+          {
+            spec = "Affliction",
+            percentRank = 43.147751605996,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "토템깔껄그랫으연-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 05:46:30",
+    last_update_int = 1649994390,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Enhancement",
+            percentRank = 95.016020341843,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Enhancement",
+            percentRank = 44.144228958765,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "토템먹어라-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 10:09:24",
+    last_update_int = 1650010164,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 30.814709572451,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Elemental",
+            percentRank = 21.144088080421,
           },
         },
         encountersKilled = 6,
@@ -21004,24 +21996,19 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "테일러더든-로크홀라" ] = {
+  [ "턱뼈-로크홀라" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 17:08:46",
-    last_update_int = 1650035326,
+    last_update = "2022-04-15 13:57:23",
+    last_update_int = 1650023843,
     performance = {
       {
         zoneId = 1011,
         zoneName = "BT / Hyjal",
         zoneEncounters = "14",
         partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 61.795907152329,
-          },
-        },
+        allstars = {},
         encountersKilled = 14,
       },
       {
@@ -21034,47 +22021,12 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "토템깔껄그랫으연-로크홀라" ] = {
+  [ "토템소녀-로크홀라" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 05:46:30",
-    last_update_int = 1649994390,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Enhancement",
-            percentRank = 95.016020341843,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Enhancement",
-            percentRank = 44.144228958765,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "토템먹어라-로크홀라" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 10:09:24",
-    last_update_int = 1650010164,
+    last_update = "2022-04-15 16:01:22",
+    last_update_int = 1650031282,
     performance = {
       {
         zoneId = 1011,
@@ -21084,7 +22036,7 @@ LogTracker_CharacterData_KR = {
         allstars = {
           {
             spec = "Elemental",
-            percentRank = 30.814709572451,
+            percentRank = 92.168567712958,
           },
         },
         encountersKilled = 14,
@@ -21097,7 +22049,7 @@ LogTracker_CharacterData_KR = {
         allstars = {
           {
             spec = "Elemental",
-            percentRank = 21.144088080421,
+            percentRank = 53.894207754907,
           },
         },
         encountersKilled = 6,
@@ -21508,37 +22460,12 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "턱뼈-로크홀라" ] = {
+  [ "하늘빛아리아-로크홀라" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 13:57:23",
-    last_update_int = 1650023843,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "토템소녀-로크홀라" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 16:01:22",
-    last_update_int = 1650031282,
+    last_update = "2022-04-15 05:42:08",
+    last_update_int = 1649994128,
     performance = {
       {
         zoneId = 1011,
@@ -21547,8 +22474,8 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Elemental",
-            percentRank = 92.168567712958,
+            spec = "Restoration",
+            percentRank = 54.524854153609,
           },
         },
         encountersKilled = 14,
@@ -21560,8 +22487,43 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Elemental",
-            percentRank = 53.894207754907,
+            spec = "Restoration",
+            percentRank = 14.933048468437,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "한가헤-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:10:18",
+    last_update_int = 1650042618,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 93.700167255944,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 51.569746973014,
           },
         },
         encountersKilled = 6,
@@ -22152,12 +23114,12 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "하늘빛아리아-로크홀라" ] = {
+  [ "학살의광기-로크홀라" ] = {
     level = "0",
-    faction = "Alliance",
+    faction = "Horde",
     guild = nil,
-    last_update = "2022-04-15 05:42:08",
-    last_update_int = 1649994128,
+    last_update = "2022-04-15 05:39:29",
+    last_update_int = 1649993969,
     performance = {
       {
         zoneId = 1011,
@@ -22166,8 +23128,8 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Restoration",
-            percentRank = 54.524854153609,
+            spec = "Balance",
+            percentRank = 90.643338880617,
           },
         },
         encountersKilled = 14,
@@ -22179,10 +23141,91 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Restoration",
-            percentRank = 14.933048468437,
+            spec = "Guardian",
+            percentRank = 71.292199075225,
+          },
+          {
+            spec = "Feral",
+            percentRank = 68.67876619442,
+          },
+          {
+            spec = "Warden",
+            percentRank = 61.12062309061,
           },
         },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "한맺힌피바람-로크홀라" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 16:11:07",
+    last_update_int = 1650031867,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 98.081032387816,
+          },
+          {
+            spec = "Gladiator",
+            percentRank = 1.1972003929273,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Protection",
+            percentRank = 92.248327368912,
+          },
+          {
+            spec = "Gladiator",
+            percentRank = 38.575063613232,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "한수빈야드랑이-로크홀라" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 19:16:14",
+    last_update_int = 1650042974,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Balance",
+            percentRank = 97.213100587625,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
         encountersKilled = 6,
       },
     },
@@ -22522,12 +23565,12 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "학살의광기-로크홀라" ] = {
+  [ "흰우유-로크홀라" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 05:39:29",
-    last_update_int = 1649993969,
+    last_update = "2022-04-15 19:16:11",
+    last_update_int = 1650042971,
     performance = {
       {
         zoneId = 1011,
@@ -22536,8 +23579,8 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Balance",
-            percentRank = 90.643338880617,
+            spec = "Holy",
+            percentRank = 98.668769641827,
           },
         },
         encountersKilled = 14,
@@ -22547,63 +23590,7 @@ LogTracker_CharacterData_KR = {
         zoneName = "Zul'Aman",
         zoneEncounters = "6",
         partition = 5,
-        allstars = {
-          {
-            spec = "Guardian",
-            percentRank = 71.292199075225,
-          },
-          {
-            spec = "Feral",
-            percentRank = 68.67876619442,
-          },
-          {
-            spec = "Warden",
-            percentRank = 61.12062309061,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "한맺힌피바람-로크홀라" ] = {
-    level = "0",
-    faction = "Horde",
-    guild = nil,
-    last_update = "2022-04-15 16:11:07",
-    last_update_int = 1650031867,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Protection",
-            percentRank = 98.081032387816,
-          },
-          {
-            spec = "Gladiator",
-            percentRank = 1.1972003929273,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Protection",
-            percentRank = 92.248327368912,
-          },
-          {
-            spec = "Gladiator",
-            percentRank = 38.575063613232,
-          },
-        },
+        allstars = {},
         encountersKilled = 6,
       },
     },
@@ -22839,6 +23826,36 @@ LogTracker_CharacterData_KR = {
             percentRank = 48.010418628005,
           },
         },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "홈빵-로크홀라" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 20:34:17",
+    last_update_int = 1650047657,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 57.024310425432,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
         encountersKilled = 6,
       },
     },
@@ -23105,6 +24122,45 @@ LogTracker_CharacterData_KR = {
           {
             spec = "Destruction",
             percentRank = 86.73286790836,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "히네-로크홀라" ] = {
+    level = "0",
+    faction = "Horde",
+    guild = nil,
+    last_update = "2022-04-15 09:32:36",
+    last_update_int = 1650007956,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Shadow",
+            percentRank = 98.274763563962,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Discipline",
+            percentRank = 83.447924624395,
+          },
+          {
+            spec = "Holy",
+            percentRank = 77.058904949281,
           },
         },
         encountersKilled = 6,
@@ -24023,12 +25079,12 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
-  [ "히네-로크홀라" ] = {
+  [ "김치년-라그나로스" ] = {
     level = "0",
-    faction = "Horde",
+    faction = "Alliance",
     guild = nil,
-    last_update = "2022-04-15 09:32:36",
-    last_update_int = 1650007956,
+    last_update = "2022-04-15 03:55:24",
+    last_update_int = 1649987724,
     performance = {
       {
         zoneId = 1011,
@@ -24037,8 +25093,38 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Shadow",
-            percentRank = 98.274763563962,
+            spec = "Holy",
+            percentRank = 78.962935385125,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "꼼마-라그나로스" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 03:55:24",
+    last_update_int = 1649987724,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Restoration",
+            percentRank = 75.923292030278,
           },
         },
         encountersKilled = 14,
@@ -24050,12 +25136,8 @@ LogTracker_CharacterData_KR = {
         partition = 5,
         allstars = {
           {
-            spec = "Discipline",
-            percentRank = 83.447924624395,
-          },
-          {
-            spec = "Holy",
-            percentRank = 77.058904949281,
+            spec = "Restoration",
+            percentRank = 27.207909969443,
           },
         },
         encountersKilled = 6,
@@ -24204,71 +25286,6 @@ LogTracker_CharacterData_KR = {
           {
             spec = "Holy",
             percentRank = 90.873048311943,
-          },
-        },
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "김치년-라그나로스" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 03:55:24",
-    last_update_int = 1649987724,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Holy",
-            percentRank = 78.962935385125,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {},
-        encountersKilled = 6,
-      },
-    },
-  },
-  [ "꼼마-라그나로스" ] = {
-    level = "0",
-    faction = "Alliance",
-    guild = nil,
-    last_update = "2022-04-15 03:55:24",
-    last_update_int = 1649987724,
-    performance = {
-      {
-        zoneId = 1011,
-        zoneName = "BT / Hyjal",
-        zoneEncounters = "14",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 75.923292030278,
-          },
-        },
-        encountersKilled = 14,
-      },
-      {
-        zoneId = 1012,
-        zoneName = "Zul'Aman",
-        zoneEncounters = "6",
-        partition = 5,
-        allstars = {
-          {
-            spec = "Restoration",
-            percentRank = 27.207909969443,
           },
         },
         encountersKilled = 6,
@@ -28490,6 +29507,36 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
+  [ "깁스한왼쪽다리-소금 평원" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 20:33:14",
+    last_update_int = 1650047594,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Destruction",
+            percentRank = 63.985057655732,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {},
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "까망나자린-소금 평원" ] = {
     level = "0",
     faction = "Alliance",
@@ -28816,6 +29863,45 @@ LogTracker_CharacterData_KR = {
       },
     },
   },
+  [ "려은님-소금 평원" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 20:35:06",
+    last_update_int = 1650047706,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Discipline",
+            percentRank = 94.902867715079,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "Holy",
+            percentRank = 43.857909472702,
+          },
+          {
+            spec = "Discipline",
+            percentRank = 23.988005997001,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
   [ "마루기사-소금 평원" ] = {
     level = "0",
     faction = "Alliance",
@@ -29044,6 +30130,41 @@ LogTracker_CharacterData_KR = {
           {
             spec = "Arcane",
             percentRank = 69.76104643707,
+          },
+        },
+        encountersKilled = 6,
+      },
+    },
+  },
+  [ "별의별꼬봉-소금 평원" ] = {
+    level = "0",
+    faction = "Alliance",
+    guild = nil,
+    last_update = "2022-04-15 20:29:58",
+    last_update_int = 1650047398,
+    performance = {
+      {
+        zoneId = 1011,
+        zoneName = "BT / Hyjal",
+        zoneEncounters = "14",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 89.346854953105,
+          },
+        },
+        encountersKilled = 14,
+      },
+      {
+        zoneId = 1012,
+        zoneName = "Zul'Aman",
+        zoneEncounters = "6",
+        partition = 5,
+        allstars = {
+          {
+            spec = "BeastMastery",
+            percentRank = 54.908233709379,
           },
         },
         encountersKilled = 6,
