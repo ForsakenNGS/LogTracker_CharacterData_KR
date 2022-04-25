@@ -8,3 +8,7 @@
 ## LoadOnDemand: 1
 
 LogTracker_CharacterData_KR.lua
+LogTracker_CharacterData_KR_5050.lua
+LogTracker_CharacterData_KR_5051.lua
+LogTracker_CharacterData_KR_5090.lua
+LogTracker_CharacterData_KR_5091.lua
